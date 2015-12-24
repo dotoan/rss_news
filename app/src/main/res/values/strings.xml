@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">vnexpress_news</string>
+    <string name="action_settings">Setting</string>
+    <string-array name="nav_drawer_title">
+        <item>Trang chủ</item>
+        <item>Thời sự</item>
+        <item>Thế giới</item>
+        <item>Kinh doanh</item>
+        <item>Thể thao</item>
+    </string-array>
+    <array name="nav_drawer_icon">
+        <item>@drawable/home</item>
+        <item>@drawable/news</item>
+        <item>@drawable/world</item>
+        <item>@drawable/bussiness</item>
+        <item>@drawable/sport</item>
+    </array>
+</resources>
