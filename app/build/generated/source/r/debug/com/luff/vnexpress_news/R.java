@@ -19,6 +19,10 @@ public final class R {
         public static final int abc_slide_in_top=0x7f050007;
         public static final int abc_slide_out_bottom=0x7f050008;
         public static final int abc_slide_out_top=0x7f050009;
+        public static final int design_fab_in=0x7f05000a;
+        public static final int design_fab_out=0x7f05000b;
+        public static final int design_snackbar_in=0x7f05000c;
+        public static final int design_snackbar_out=0x7f05000d;
     }
     public static final class array {
         public static final int nav_drawer_icon=0x7f0b0000;
@@ -28,15 +32,15 @@ public final class R {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarDivider=0x7f010063;
+        public static final int actionBarDivider=0x7f0100a5;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarItemBackground=0x7f010064;
+        public static final int actionBarItemBackground=0x7f0100a6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarPopupTheme=0x7f01005d;
+        public static final int actionBarPopupTheme=0x7f01009f;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -54,117 +58,117 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
          */
-        public static final int actionBarSize=0x7f010062;
+        public static final int actionBarSize=0x7f0100a4;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarSplitStyle=0x7f01005f;
+        public static final int actionBarSplitStyle=0x7f0100a1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarStyle=0x7f01005e;
+        public static final int actionBarStyle=0x7f0100a0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabBarStyle=0x7f010059;
+        public static final int actionBarTabBarStyle=0x7f01009b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabStyle=0x7f010058;
+        public static final int actionBarTabStyle=0x7f01009a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabTextStyle=0x7f01005a;
+        public static final int actionBarTabTextStyle=0x7f01009c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTheme=0x7f010060;
+        public static final int actionBarTheme=0x7f0100a2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarWidgetTheme=0x7f010061;
+        public static final int actionBarWidgetTheme=0x7f0100a3;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionButtonStyle=0x7f01007d;
+        public static final int actionButtonStyle=0x7f0100bf;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionDropDownStyle=0x7f010079;
+        public static final int actionDropDownStyle=0x7f0100bb;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionLayout=0x7f010034;
+        public static final int actionLayout=0x7f010051;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionMenuTextAppearance=0x7f010065;
+        public static final int actionMenuTextAppearance=0x7f0100a7;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int actionMenuTextColor=0x7f010066;
+        public static final int actionMenuTextColor=0x7f0100a8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeBackground=0x7f010069;
+        public static final int actionModeBackground=0x7f0100ab;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCloseButtonStyle=0x7f010068;
+        public static final int actionModeCloseButtonStyle=0x7f0100aa;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCloseDrawable=0x7f01006b;
+        public static final int actionModeCloseDrawable=0x7f0100ad;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCopyDrawable=0x7f01006d;
+        public static final int actionModeCopyDrawable=0x7f0100af;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCutDrawable=0x7f01006c;
+        public static final int actionModeCutDrawable=0x7f0100ae;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeFindDrawable=0x7f010071;
+        public static final int actionModeFindDrawable=0x7f0100b3;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModePasteDrawable=0x7f01006e;
+        public static final int actionModePasteDrawable=0x7f0100b0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModePopupWindowStyle=0x7f010073;
+        public static final int actionModePopupWindowStyle=0x7f0100b5;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeSelectAllDrawable=0x7f01006f;
+        public static final int actionModeSelectAllDrawable=0x7f0100b1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeShareDrawable=0x7f010070;
+        public static final int actionModeShareDrawable=0x7f0100b2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeSplitBackground=0x7f01006a;
+        public static final int actionModeSplitBackground=0x7f0100ac;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeStyle=0x7f010067;
+        public static final int actionModeStyle=0x7f0100a9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeWebSearchDrawable=0x7f010072;
+        public static final int actionModeWebSearchDrawable=0x7f0100b4;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionOverflowButtonStyle=0x7f01005b;
+        public static final int actionOverflowButtonStyle=0x7f01009d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionOverflowMenuStyle=0x7f01005c;
+        public static final int actionOverflowMenuStyle=0x7f01009e;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -172,7 +176,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int actionProviderClass=0x7f010036;
+        public static final int actionProviderClass=0x7f010053;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -180,15 +184,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int actionViewClass=0x7f010035;
+        public static final int actionViewClass=0x7f010052;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int activityChooserViewStyle=0x7f010085;
+        public static final int activityChooserViewStyle=0x7f0100c7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogButtonGroupStyle=0x7f0100a8;
+        public static final int alertDialogButtonGroupStyle=0x7f0100ea;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -196,15 +200,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int alertDialogCenterButtons=0x7f0100a9;
+        public static final int alertDialogCenterButtons=0x7f0100eb;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogStyle=0x7f0100a7;
+        public static final int alertDialogStyle=0x7f0100e9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogTheme=0x7f0100aa;
+        public static final int alertDialogTheme=0x7f0100ec;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -212,7 +216,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int allowStacking=0x7f010025;
+        public static final int allowStacking=0x7f010028;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -222,7 +226,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int arrowHeadLength=0x7f01002c;
+        public static final int arrowHeadLength=0x7f010044;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -232,11 +236,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int arrowShaftLength=0x7f01002d;
+        public static final int arrowShaftLength=0x7f010045;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int autoCompleteTextViewStyle=0x7f0100af;
+        public static final int autoCompleteTextViewStyle=0x7f0100f1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -261,7 +265,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int backgroundTint=0x7f0100cc;
+        public static final int backgroundTint=0x7f01010e;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -275,7 +279,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
          */
-        public static final int backgroundTintMode=0x7f0100cd;
+        public static final int backgroundTintMode=0x7f01010f;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -285,31 +289,51 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int barLength=0x7f01002e;
+        public static final int barLength=0x7f010046;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int behavior_overlapTop=0x7f010062;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int borderWidth=0x7f01004b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int borderlessButtonStyle=0x7f010082;
+        public static final int borderlessButtonStyle=0x7f0100c4;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarButtonStyle=0x7f01007f;
+        public static final int buttonBarButtonStyle=0x7f0100c1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarNegativeButtonStyle=0x7f0100ad;
+        public static final int buttonBarNegativeButtonStyle=0x7f0100ef;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarNeutralButtonStyle=0x7f0100ae;
+        public static final int buttonBarNeutralButtonStyle=0x7f0100f0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarPositiveButtonStyle=0x7f0100ac;
+        public static final int buttonBarPositiveButtonStyle=0x7f0100ee;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonBarStyle=0x7f01007e;
+        public static final int buttonBarStyle=0x7f0100c0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -317,11 +341,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonStyle=0x7f0100b0;
+        public static final int buttonStyle=0x7f0100f2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int buttonStyleSmall=0x7f0100b1;
+        public static final int buttonStyleSmall=0x7f0100f3;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -330,7 +354,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int buttonTint=0x7f010026;
+        public static final int buttonTint=0x7f010038;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -344,19 +368,19 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
          */
-        public static final int buttonTintMode=0x7f010027;
+        public static final int buttonTintMode=0x7f010039;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int checkboxStyle=0x7f0100b2;
+        public static final int checkboxStyle=0x7f0100f4;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int checkedTextViewStyle=0x7f0100b3;
+        public static final int checkedTextViewStyle=0x7f0100f5;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int closeIcon=0x7f01003e;
+        public static final int closeIcon=0x7f010067;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -368,96 +392,119 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int collapseContentDescription=0x7f0100c3;
+        public static final int collapseContentDescription=0x7f010105;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int collapseIcon=0x7f0100c2;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+        public static final int collapseIcon=0x7f010104;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
          */
-        public static final int color=0x7f010028;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorAccent=0x7f0100a0;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorButtonNormal=0x7f0100a4;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlActivated=0x7f0100a2;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlHighlight=0x7f0100a3;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlNormal=0x7f0100a1;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorPrimary=0x7f01009e;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorPrimaryDark=0x7f01009f;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorSwitchThumbNormal=0x7f0100a5;
+        public static final int collapsedTitleGravity=0x7f010035;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int commitIcon=0x7f010043;
+        public static final int collapsedTitleTextAppearance=0x7f010031;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int color=0x7f010040;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorAccent=0x7f0100e2;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorButtonNormal=0x7f0100e6;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlActivated=0x7f0100e4;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlHighlight=0x7f0100e5;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlNormal=0x7f0100e3;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorPrimary=0x7f0100e0;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorPrimaryDark=0x7f0100e1;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorSwitchThumbNormal=0x7f0100e7;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int commitIcon=0x7f01006c;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -498,10 +545,43 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int contentInsetStart=0x7f010016;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentScrim=0x7f010032;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int controlBackground=0x7f0100a6;
+        public static final int controlBackground=0x7f0100e8;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int counterEnabled=0x7f01008b;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int counterMaxLength=0x7f01008c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int counterOverflowTextAppearance=0x7f01008e;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int counterTextAppearance=0x7f01008d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -513,7 +593,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int defaultQueryHint=0x7f01003d;
+        public static final int defaultQueryHint=0x7f010066;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -523,11 +603,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dialogPreferredPadding=0x7f010077;
+        public static final int dialogPreferredPadding=0x7f0100b9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dialogTheme=0x7f010076;
+        public static final int dialogTheme=0x7f0100b8;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -551,7 +631,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dividerHorizontal=0x7f010084;
+        public static final int dividerHorizontal=0x7f0100c6;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -561,11 +641,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dividerPadding=0x7f010032;
+        public static final int dividerPadding=0x7f01004f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dividerVertical=0x7f010083;
+        public static final int dividerVertical=0x7f0100c5;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -575,7 +655,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int drawableSize=0x7f01002a;
+        public static final int drawableSize=0x7f010042;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -583,7 +663,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dropDownListViewStyle=0x7f010096;
+        public static final int dropDownListViewStyle=0x7f0100d8;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -593,21 +673,21 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dropdownListPreferredItemHeight=0x7f01007a;
+        public static final int dropdownListPreferredItemHeight=0x7f0100bc;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int editTextBackground=0x7f01008b;
+        public static final int editTextBackground=0x7f0100cd;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int editTextColor=0x7f01008a;
+        public static final int editTextColor=0x7f0100cc;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int editTextStyle=0x7f0100b4;
+        public static final int editTextStyle=0x7f0100f6;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -618,10 +698,49 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int elevation=0x7f01001a;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int errorEnabled=0x7f010089;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int errorTextAppearance=0x7f01008a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int expandActivityOverflowButtonDrawable=0x7f01001e;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expanded=0x7f010024;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+         */
+        public static final int expandedTitleGravity=0x7f010036;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -631,11 +750,88 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int gapBetweenBars=0x7f01002b;
+        public static final int expandedTitleMargin=0x7f01002b;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginBottom=0x7f01002f;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginEnd=0x7f01002e;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginStart=0x7f01002c;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int expandedTitleMarginTop=0x7f01002d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int goIcon=0x7f01003f;
+        public static final int expandedTitleTextAppearance=0x7f010030;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>mini</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int fabSize=0x7f010049;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int foregroundInsidePadding=0x7f01004c;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int gapBetweenBars=0x7f010043;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int goIcon=0x7f010068;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int headerLayout=0x7f01005a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -654,10 +850,22 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int hideOnContentScroll=0x7f010015;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int hintAnimationEnabled=0x7f01008f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int homeAsUpIndicator=0x7f01007c;
+        public static final int hintTextAppearance=0x7f010088;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int homeAsUpIndicator=0x7f0100be;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -673,11 +881,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int iconifiedByDefault=0x7f01003b;
+        public static final int iconifiedByDefault=0x7f010064;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int imageButtonStyle=0x7f01008c;
+        public static final int imageButtonStyle=0x7f0100ce;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -690,6 +898,12 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int initialActivityCount=0x7f01001d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int insetForeground=0x7f010061;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -698,6 +912,19 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int isLightTheme=0x7f010002;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int itemBackground=0x7f010058;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int itemIconTint=0x7f010056;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -711,15 +938,121 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int layout=0x7f01003a;
+        public static final int itemTextAppearance=0x7f010059;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int itemTextColor=0x7f010057;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int listChoiceBackgroundIndicator=0x7f01009d;
+        public static final int keylines=0x7f01003a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int listDividerAlertDialog=0x7f010078;
+        public static final int layout=0x7f010063;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layoutManager=0x7f01005d;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int layout_anchor=0x7f01003d;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>fill_horizontal</code></td><td>0x07</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>fill</code></td><td>0x77</td><td></td></tr>
+<tr><td><code>clip_vertical</code></td><td>0x80</td><td></td></tr>
+<tr><td><code>clip_horizontal</code></td><td>0x08</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+         */
+        public static final int layout_anchorGravity=0x7f01003f;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layout_behavior=0x7f01003c;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>pin</code></td><td>1</td><td></td></tr>
+<tr><td><code>parallax</code></td><td>2</td><td></td></tr>
+</table>
+         */
+        public static final int layout_collapseMode=0x7f010029;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layout_collapseParallaxMultiplier=0x7f01002a;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int layout_keyline=0x7f01003e;
+        /** <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scroll</code></td><td>0x1</td><td></td></tr>
+<tr><td><code>exitUntilCollapsed</code></td><td>0x2</td><td></td></tr>
+<tr><td><code>enterAlways</code></td><td>0x4</td><td></td></tr>
+<tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
+<tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
+</table>
+         */
+        public static final int layout_scrollFlags=0x7f010025;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int layout_scrollInterpolator=0x7f010026;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listChoiceBackgroundIndicator=0x7f0100df;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int listDividerAlertDialog=0x7f0100ba;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -731,7 +1064,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int listPopupWindowStyle=0x7f010097;
+        public static final int listPopupWindowStyle=0x7f0100d9;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -741,7 +1074,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemHeight=0x7f010091;
+        public static final int listPreferredItemHeight=0x7f0100d3;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -751,7 +1084,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemHeightLarge=0x7f010093;
+        public static final int listPreferredItemHeightLarge=0x7f0100d5;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -761,7 +1094,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemHeightSmall=0x7f010092;
+        public static final int listPreferredItemHeightSmall=0x7f0100d4;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -771,7 +1104,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemPaddingLeft=0x7f010094;
+        public static final int listPreferredItemPaddingLeft=0x7f0100d6;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -781,7 +1114,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemPaddingRight=0x7f010095;
+        public static final int listPreferredItemPaddingRight=0x7f0100d7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -793,7 +1126,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int logoDescription=0x7f0100c6;
+        public static final int logoDescription=0x7f010108;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -803,7 +1136,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int maxButtonHeight=0x7f0100c1;
+        public static final int maxActionInlineWidth=0x7f010070;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int maxButtonHeight=0x7f010103;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -811,7 +1154,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int measureWithLargestChild=0x7f010030;
+        public static final int measureWithLargestChild=0x7f01004d;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int menu=0x7f010055;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -823,11 +1170,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int navigationContentDescription=0x7f0100c5;
+        public static final int navigationContentDescription=0x7f010107;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int navigationIcon=0x7f0100c4;
+        public static final int navigationIcon=0x7f010106;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -847,7 +1194,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int overlapAnchor=0x7f010038;
+        public static final int overlapAnchor=0x7f01005b;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -857,7 +1204,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingEnd=0x7f0100ca;
+        public static final int paddingEnd=0x7f01010c;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -867,15 +1214,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingStart=0x7f0100c9;
+        public static final int paddingStart=0x7f01010b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int panelBackground=0x7f01009a;
+        public static final int panelBackground=0x7f0100dc;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int panelMenuListTheme=0x7f01009c;
+        public static final int panelMenuListTheme=0x7f0100de;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -885,11 +1232,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int panelMenuListWidth=0x7f01009b;
+        public static final int panelMenuListWidth=0x7f0100dd;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupMenuStyle=0x7f010088;
+        public static final int popupMenuStyle=0x7f0100ca;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -897,7 +1244,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupWindowStyle=0x7f010089;
+        public static final int popupWindowStyle=0x7f0100cb;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -905,7 +1252,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int preserveIconSpacing=0x7f010037;
+        public static final int preserveIconSpacing=0x7f010054;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int pressedTranslationZ=0x7f01004a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -923,7 +1280,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int queryBackground=0x7f010045;
+        public static final int queryBackground=0x7f01006e;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -931,39 +1288,56 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int queryHint=0x7f01003c;
+        public static final int queryHint=0x7f010065;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int radioButtonStyle=0x7f0100b5;
+        public static final int radioButtonStyle=0x7f0100f7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int ratingBarStyle=0x7f0100b6;
+        public static final int ratingBarStyle=0x7f0100f8;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int reverseLayout=0x7f01005f;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int rippleColor=0x7f010048;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchHintIcon=0x7f010041;
+        public static final int searchHintIcon=0x7f01006a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchIcon=0x7f010040;
+        public static final int searchIcon=0x7f010069;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchViewStyle=0x7f010090;
+        public static final int searchViewStyle=0x7f0100d2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int seekBarStyle=0x7f0100b7;
+        public static final int seekBarStyle=0x7f0100f9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int selectableItemBackground=0x7f010080;
+        public static final int selectableItemBackground=0x7f0100c2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int selectableItemBackgroundBorderless=0x7f010081;
+        public static final int selectableItemBackgroundBorderless=0x7f0100c3;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -977,7 +1351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
          */
-        public static final int showAsAction=0x7f010033;
+        public static final int showAsAction=0x7f010050;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -990,7 +1364,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
          */
-        public static final int showDividers=0x7f010031;
+        public static final int showDividers=0x7f01004e;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -998,11 +1372,19 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int showText=0x7f01004d;
+        public static final int showText=0x7f010077;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int singleChoiceItemLayout=0x7f010022;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int spanCount=0x7f01005e;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1010,15 +1392,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int spinBars=0x7f010029;
+        public static final int spinBars=0x7f010041;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int spinnerDropDownItemStyle=0x7f01007b;
+        public static final int spinnerDropDownItemStyle=0x7f0100bd;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int spinnerStyle=0x7f0100b8;
+        public static final int spinnerStyle=0x7f0100fa;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1026,7 +1408,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int splitTrack=0x7f01004c;
+        public static final int splitTrack=0x7f010076;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1034,11 +1416,32 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int state_above_anchor=0x7f010039;
+        public static final int stackFromEnd=0x7f010060;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int state_above_anchor=0x7f01005c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int submitBackground=0x7f010046;
+        public static final int statusBarBackground=0x7f01003b;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int statusBarScrim=0x7f010033;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int submitBackground=0x7f01006f;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1050,7 +1453,7 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int subtitleTextAppearance=0x7f0100bb;
+        public static final int subtitleTextAppearance=0x7f0100fd;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -1059,7 +1462,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int subtitleTextColor=0x7f0100c8;
+        public static final int subtitleTextColor=0x7f01010a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1067,7 +1470,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int suggestionRowLayout=0x7f010044;
+        public static final int suggestionRowLayout=0x7f01006d;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1077,7 +1480,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchMinWidth=0x7f01004a;
+        public static final int switchMinWidth=0x7f010074;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1087,60 +1490,207 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchPadding=0x7f01004b;
+        public static final int switchPadding=0x7f010075;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int switchStyle=0x7f0100b9;
+        public static final int switchStyle=0x7f0100fb;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int switchTextAppearance=0x7f010049;
+        public static final int switchTextAppearance=0x7f010073;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tabBackground=0x7f01007b;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabContentStart=0x7f01007a;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>fill</code></td><td>0</td><td></td></tr>
+<tr><td><code>center</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int tabGravity=0x7f01007d;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabIndicatorColor=0x7f010078;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabIndicatorHeight=0x7f010079;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabMaxWidth=0x7f01007f;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabMinWidth=0x7f01007e;
+        /** <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
+<tr><td><code>fixed</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int tabMode=0x7f01007c;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPadding=0x7f010087;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingBottom=0x7f010086;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingEnd=0x7f010085;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingStart=0x7f010083;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabPaddingTop=0x7f010084;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabSelectedTextColor=0x7f010082;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tabTextAppearance=0x7f010080;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tabTextColor=0x7f010081;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
          */
-        public static final int textAllCaps=0x7f010024;
+        public static final int textAllCaps=0x7f010027;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceLargePopupMenu=0x7f010074;
+        public static final int textAppearanceLargePopupMenu=0x7f0100b6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceListItem=0x7f010098;
+        public static final int textAppearanceListItem=0x7f0100da;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceListItemSmall=0x7f010099;
+        public static final int textAppearanceListItemSmall=0x7f0100db;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSearchResultSubtitle=0x7f01008e;
+        public static final int textAppearanceSearchResultSubtitle=0x7f0100d0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSearchResultTitle=0x7f01008d;
+        public static final int textAppearanceSearchResultTitle=0x7f0100cf;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSmallPopupMenu=0x7f010075;
+        public static final int textAppearanceSmallPopupMenu=0x7f0100b7;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int textColorAlertDialogListItem=0x7f0100ab;
+        public static final int textColorAlertDialogListItem=0x7f0100ed;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int textColorSearchUrl=0x7f01008f;
+        public static final int textColorSearchUrl=0x7f0100d1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int theme=0x7f0100cb;
+        public static final int theme=0x7f01010d;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1150,7 +1700,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thickness=0x7f01002f;
+        public static final int thickness=0x7f010047;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1160,7 +1710,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thumbTextPadding=0x7f010048;
+        public static final int thumbTextPadding=0x7f010072;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1169,6 +1719,14 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int title=0x7f010003;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int titleEnabled=0x7f010037;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1178,7 +1736,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginBottom=0x7f0100c0;
+        public static final int titleMarginBottom=0x7f010102;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1188,7 +1746,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginEnd=0x7f0100be;
+        public static final int titleMarginEnd=0x7f010100;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1198,7 +1756,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginStart=0x7f0100bd;
+        public static final int titleMarginStart=0x7f0100ff;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1208,7 +1766,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginTop=0x7f0100bf;
+        public static final int titleMarginTop=0x7f010101;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1218,11 +1776,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMargins=0x7f0100bc;
+        public static final int titleMargins=0x7f0100fe;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int titleTextAppearance=0x7f0100ba;
+        public static final int titleTextAppearance=0x7f0100fc;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -1231,7 +1789,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleTextColor=0x7f0100c7;
+        public static final int titleTextColor=0x7f010109;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1239,19 +1797,23 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int toolbarNavigationButtonStyle=0x7f010087;
+        public static final int toolbarId=0x7f010034;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int toolbarStyle=0x7f010086;
+        public static final int toolbarNavigationButtonStyle=0x7f0100c9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int track=0x7f010047;
+        public static final int toolbarStyle=0x7f0100c8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int voiceIcon=0x7f010042;
+        public static final int track=0x7f010071;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int voiceIcon=0x7f01006b;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1259,7 +1821,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionBar=0x7f01004e;
+        public static final int windowActionBar=0x7f010090;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1267,7 +1829,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionBarOverlay=0x7f010050;
+        public static final int windowActionBarOverlay=0x7f010092;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1275,7 +1837,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionModeOverlay=0x7f010051;
+        public static final int windowActionModeOverlay=0x7f010093;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1288,7 +1850,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowFixedHeightMajor=0x7f010055;
+        public static final int windowFixedHeightMajor=0x7f010097;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1301,7 +1863,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowFixedHeightMinor=0x7f010053;
+        public static final int windowFixedHeightMinor=0x7f010095;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1314,7 +1876,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowFixedWidthMajor=0x7f010052;
+        public static final int windowFixedWidthMajor=0x7f010094;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1327,7 +1889,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowFixedWidthMinor=0x7f010054;
+        public static final int windowFixedWidthMinor=0x7f010096;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1340,7 +1902,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowMinWidthMajor=0x7f010056;
+        public static final int windowMinWidthMajor=0x7f010098;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1353,7 +1915,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowMinWidthMinor=0x7f010057;
+        public static final int windowMinWidthMinor=0x7f010099;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1361,7 +1923,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowNoTitle=0x7f01004f;
+        public static final int windowNoTitle=0x7f010091;
     }
     public static final class bool {
         public static final int abc_action_bar_embed_tabs=0x7f070003;
@@ -1374,20 +1936,20 @@ containing a value of this type.
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f070007;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f0c003e;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f0c003f;
-        public static final int abc_color_highlight_material=0x7f0c0040;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f0c0047;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f0c0048;
+        public static final int abc_color_highlight_material=0x7f0c0049;
         public static final int abc_input_method_navigation_guard=0x7f0c0000;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f0c0041;
-        public static final int abc_primary_text_disable_only_material_light=0x7f0c0042;
-        public static final int abc_primary_text_material_dark=0x7f0c0043;
-        public static final int abc_primary_text_material_light=0x7f0c0044;
-        public static final int abc_search_url_text=0x7f0c0045;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f0c004a;
+        public static final int abc_primary_text_disable_only_material_light=0x7f0c004b;
+        public static final int abc_primary_text_material_dark=0x7f0c004c;
+        public static final int abc_primary_text_material_light=0x7f0c004d;
+        public static final int abc_search_url_text=0x7f0c004e;
         public static final int abc_search_url_text_normal=0x7f0c0001;
         public static final int abc_search_url_text_pressed=0x7f0c0002;
         public static final int abc_search_url_text_selected=0x7f0c0003;
-        public static final int abc_secondary_text_material_dark=0x7f0c0046;
-        public static final int abc_secondary_text_material_light=0x7f0c0047;
+        public static final int abc_secondary_text_material_dark=0x7f0c004f;
+        public static final int abc_secondary_text_material_light=0x7f0c0050;
         public static final int accent_material_dark=0x7f0c0004;
         public static final int accent_material_light=0x7f0c0005;
         public static final int background_floating_material_dark=0x7f0c0006;
@@ -1405,128 +1967,166 @@ containing a value of this type.
         public static final int colorAccent=0x7f0c0012;
         public static final int colorPrimary=0x7f0c0013;
         public static final int colorPrimaryDark=0x7f0c0014;
-        public static final int dim_foreground_disabled_material_dark=0x7f0c0015;
-        public static final int dim_foreground_disabled_material_light=0x7f0c0016;
-        public static final int dim_foreground_material_dark=0x7f0c0017;
-        public static final int dim_foreground_material_light=0x7f0c0018;
-        public static final int foreground_material_dark=0x7f0c0019;
-        public static final int foreground_material_light=0x7f0c001a;
-        public static final int highlighted_text_material_dark=0x7f0c001b;
-        public static final int highlighted_text_material_light=0x7f0c001c;
-        public static final int hint_foreground_material_dark=0x7f0c001d;
-        public static final int hint_foreground_material_light=0x7f0c001e;
-        public static final int material_blue_grey_800=0x7f0c001f;
-        public static final int material_blue_grey_900=0x7f0c0020;
-        public static final int material_blue_grey_950=0x7f0c0021;
-        public static final int material_deep_teal_200=0x7f0c0022;
-        public static final int material_deep_teal_500=0x7f0c0023;
-        public static final int material_grey_100=0x7f0c0024;
-        public static final int material_grey_300=0x7f0c0025;
-        public static final int material_grey_50=0x7f0c0026;
-        public static final int material_grey_600=0x7f0c0027;
-        public static final int material_grey_800=0x7f0c0028;
-        public static final int material_grey_850=0x7f0c0029;
-        public static final int material_grey_900=0x7f0c002a;
-        public static final int primary_dark_material_dark=0x7f0c002b;
-        public static final int primary_dark_material_light=0x7f0c002c;
-        public static final int primary_material_dark=0x7f0c002d;
-        public static final int primary_material_light=0x7f0c002e;
-        public static final int primary_text_default_material_dark=0x7f0c002f;
-        public static final int primary_text_default_material_light=0x7f0c0030;
-        public static final int primary_text_disabled_material_dark=0x7f0c0031;
-        public static final int primary_text_disabled_material_light=0x7f0c0032;
-        public static final int ripple_material_dark=0x7f0c0033;
-        public static final int ripple_material_light=0x7f0c0034;
-        public static final int secondary_text_default_material_dark=0x7f0c0035;
-        public static final int secondary_text_default_material_light=0x7f0c0036;
-        public static final int secondary_text_disabled_material_dark=0x7f0c0037;
-        public static final int secondary_text_disabled_material_light=0x7f0c0038;
-        public static final int switch_thumb_disabled_material_dark=0x7f0c0039;
-        public static final int switch_thumb_disabled_material_light=0x7f0c003a;
-        public static final int switch_thumb_material_dark=0x7f0c0048;
-        public static final int switch_thumb_material_light=0x7f0c0049;
-        public static final int switch_thumb_normal_material_dark=0x7f0c003b;
-        public static final int switch_thumb_normal_material_light=0x7f0c003c;
-        public static final int textMenuColor=0x7f0c003d;
+        public static final int design_fab_shadow_end_color=0x7f0c0015;
+        public static final int design_fab_shadow_mid_color=0x7f0c0016;
+        public static final int design_fab_shadow_start_color=0x7f0c0017;
+        public static final int design_fab_stroke_end_inner_color=0x7f0c0018;
+        public static final int design_fab_stroke_end_outer_color=0x7f0c0019;
+        public static final int design_fab_stroke_top_inner_color=0x7f0c001a;
+        public static final int design_fab_stroke_top_outer_color=0x7f0c001b;
+        public static final int design_snackbar_background_color=0x7f0c001c;
+        public static final int design_textinput_error_color=0x7f0c001d;
+        public static final int dim_foreground_disabled_material_dark=0x7f0c001e;
+        public static final int dim_foreground_disabled_material_light=0x7f0c001f;
+        public static final int dim_foreground_material_dark=0x7f0c0020;
+        public static final int dim_foreground_material_light=0x7f0c0021;
+        public static final int foreground_material_dark=0x7f0c0022;
+        public static final int foreground_material_light=0x7f0c0023;
+        public static final int highlighted_text_material_dark=0x7f0c0024;
+        public static final int highlighted_text_material_light=0x7f0c0025;
+        public static final int hint_foreground_material_dark=0x7f0c0026;
+        public static final int hint_foreground_material_light=0x7f0c0027;
+        public static final int material_blue_grey_800=0x7f0c0028;
+        public static final int material_blue_grey_900=0x7f0c0029;
+        public static final int material_blue_grey_950=0x7f0c002a;
+        public static final int material_deep_teal_200=0x7f0c002b;
+        public static final int material_deep_teal_500=0x7f0c002c;
+        public static final int material_grey_100=0x7f0c002d;
+        public static final int material_grey_300=0x7f0c002e;
+        public static final int material_grey_50=0x7f0c002f;
+        public static final int material_grey_600=0x7f0c0030;
+        public static final int material_grey_800=0x7f0c0031;
+        public static final int material_grey_850=0x7f0c0032;
+        public static final int material_grey_900=0x7f0c0033;
+        public static final int primary_dark_material_dark=0x7f0c0034;
+        public static final int primary_dark_material_light=0x7f0c0035;
+        public static final int primary_material_dark=0x7f0c0036;
+        public static final int primary_material_light=0x7f0c0037;
+        public static final int primary_text_default_material_dark=0x7f0c0038;
+        public static final int primary_text_default_material_light=0x7f0c0039;
+        public static final int primary_text_disabled_material_dark=0x7f0c003a;
+        public static final int primary_text_disabled_material_light=0x7f0c003b;
+        public static final int ripple_material_dark=0x7f0c003c;
+        public static final int ripple_material_light=0x7f0c003d;
+        public static final int secondary_text_default_material_dark=0x7f0c003e;
+        public static final int secondary_text_default_material_light=0x7f0c003f;
+        public static final int secondary_text_disabled_material_dark=0x7f0c0040;
+        public static final int secondary_text_disabled_material_light=0x7f0c0041;
+        public static final int switch_thumb_disabled_material_dark=0x7f0c0042;
+        public static final int switch_thumb_disabled_material_light=0x7f0c0043;
+        public static final int switch_thumb_material_dark=0x7f0c0051;
+        public static final int switch_thumb_material_light=0x7f0c0052;
+        public static final int switch_thumb_normal_material_dark=0x7f0c0044;
+        public static final int switch_thumb_normal_material_light=0x7f0c0045;
+        public static final int textMenuColor=0x7f0c0046;
     }
     public static final class dimen {
         public static final int abc_action_bar_content_inset_material=0x7f08000d;
         public static final int abc_action_bar_default_height_material=0x7f080001;
         public static final int abc_action_bar_default_padding_end_material=0x7f08000e;
         public static final int abc_action_bar_default_padding_start_material=0x7f08000f;
-        public static final int abc_action_bar_icon_vertical_padding_material=0x7f080012;
-        public static final int abc_action_bar_overflow_padding_end_material=0x7f080013;
-        public static final int abc_action_bar_overflow_padding_start_material=0x7f080014;
+        public static final int abc_action_bar_icon_vertical_padding_material=0x7f08001a;
+        public static final int abc_action_bar_overflow_padding_end_material=0x7f08001b;
+        public static final int abc_action_bar_overflow_padding_start_material=0x7f08001c;
         public static final int abc_action_bar_progress_bar_size=0x7f080002;
-        public static final int abc_action_bar_stacked_max_height=0x7f080015;
-        public static final int abc_action_bar_stacked_tab_max_width=0x7f080016;
-        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f080017;
-        public static final int abc_action_bar_subtitle_top_margin_material=0x7f080018;
-        public static final int abc_action_button_min_height_material=0x7f080019;
-        public static final int abc_action_button_min_width_material=0x7f08001a;
-        public static final int abc_action_button_min_width_overflow_material=0x7f08001b;
+        public static final int abc_action_bar_stacked_max_height=0x7f08001d;
+        public static final int abc_action_bar_stacked_tab_max_width=0x7f08001e;
+        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f08001f;
+        public static final int abc_action_bar_subtitle_top_margin_material=0x7f080020;
+        public static final int abc_action_button_min_height_material=0x7f080021;
+        public static final int abc_action_button_min_width_material=0x7f080022;
+        public static final int abc_action_button_min_width_overflow_material=0x7f080023;
         public static final int abc_alert_dialog_button_bar_height=0x7f080000;
-        public static final int abc_button_inset_horizontal_material=0x7f08001c;
-        public static final int abc_button_inset_vertical_material=0x7f08001d;
-        public static final int abc_button_padding_horizontal_material=0x7f08001e;
-        public static final int abc_button_padding_vertical_material=0x7f08001f;
+        public static final int abc_button_inset_horizontal_material=0x7f080024;
+        public static final int abc_button_inset_vertical_material=0x7f080025;
+        public static final int abc_button_padding_horizontal_material=0x7f080026;
+        public static final int abc_button_padding_vertical_material=0x7f080027;
         public static final int abc_config_prefDialogWidth=0x7f080005;
-        public static final int abc_control_corner_material=0x7f080020;
-        public static final int abc_control_inset_material=0x7f080021;
-        public static final int abc_control_padding_material=0x7f080022;
+        public static final int abc_control_corner_material=0x7f080028;
+        public static final int abc_control_inset_material=0x7f080029;
+        public static final int abc_control_padding_material=0x7f08002a;
         public static final int abc_dialog_fixed_height_major=0x7f080006;
         public static final int abc_dialog_fixed_height_minor=0x7f080007;
         public static final int abc_dialog_fixed_width_major=0x7f080008;
         public static final int abc_dialog_fixed_width_minor=0x7f080009;
-        public static final int abc_dialog_list_padding_vertical_material=0x7f080023;
+        public static final int abc_dialog_list_padding_vertical_material=0x7f08002b;
         public static final int abc_dialog_min_width_major=0x7f08000a;
         public static final int abc_dialog_min_width_minor=0x7f08000b;
-        public static final int abc_dialog_padding_material=0x7f080024;
-        public static final int abc_dialog_padding_top_material=0x7f080025;
-        public static final int abc_disabled_alpha_material_dark=0x7f080026;
-        public static final int abc_disabled_alpha_material_light=0x7f080027;
-        public static final int abc_dropdownitem_icon_width=0x7f080028;
-        public static final int abc_dropdownitem_text_padding_left=0x7f080029;
-        public static final int abc_dropdownitem_text_padding_right=0x7f08002a;
-        public static final int abc_edit_text_inset_bottom_material=0x7f08002b;
-        public static final int abc_edit_text_inset_horizontal_material=0x7f08002c;
-        public static final int abc_edit_text_inset_top_material=0x7f08002d;
-        public static final int abc_floating_window_z=0x7f08002e;
-        public static final int abc_list_item_padding_horizontal_material=0x7f08002f;
-        public static final int abc_panel_menu_list_width=0x7f080030;
-        public static final int abc_search_view_preferred_width=0x7f080031;
+        public static final int abc_dialog_padding_material=0x7f08002c;
+        public static final int abc_dialog_padding_top_material=0x7f08002d;
+        public static final int abc_disabled_alpha_material_dark=0x7f08002e;
+        public static final int abc_disabled_alpha_material_light=0x7f08002f;
+        public static final int abc_dropdownitem_icon_width=0x7f080030;
+        public static final int abc_dropdownitem_text_padding_left=0x7f080031;
+        public static final int abc_dropdownitem_text_padding_right=0x7f080032;
+        public static final int abc_edit_text_inset_bottom_material=0x7f080033;
+        public static final int abc_edit_text_inset_horizontal_material=0x7f080034;
+        public static final int abc_edit_text_inset_top_material=0x7f080035;
+        public static final int abc_floating_window_z=0x7f080036;
+        public static final int abc_list_item_padding_horizontal_material=0x7f080037;
+        public static final int abc_panel_menu_list_width=0x7f080038;
+        public static final int abc_search_view_preferred_width=0x7f080039;
         public static final int abc_search_view_text_min_width=0x7f08000c;
-        public static final int abc_seekbar_track_background_height_material=0x7f080032;
-        public static final int abc_seekbar_track_progress_height_material=0x7f080033;
-        public static final int abc_select_dialog_padding_start_material=0x7f080034;
-        public static final int abc_switch_padding=0x7f080010;
-        public static final int abc_text_size_body_1_material=0x7f080035;
-        public static final int abc_text_size_body_2_material=0x7f080036;
-        public static final int abc_text_size_button_material=0x7f080037;
-        public static final int abc_text_size_caption_material=0x7f080038;
-        public static final int abc_text_size_display_1_material=0x7f080039;
-        public static final int abc_text_size_display_2_material=0x7f08003a;
-        public static final int abc_text_size_display_3_material=0x7f08003b;
-        public static final int abc_text_size_display_4_material=0x7f08003c;
-        public static final int abc_text_size_headline_material=0x7f08003d;
-        public static final int abc_text_size_large_material=0x7f08003e;
-        public static final int abc_text_size_medium_material=0x7f08003f;
-        public static final int abc_text_size_menu_material=0x7f080040;
-        public static final int abc_text_size_small_material=0x7f080041;
-        public static final int abc_text_size_subhead_material=0x7f080042;
+        public static final int abc_seekbar_track_background_height_material=0x7f08003a;
+        public static final int abc_seekbar_track_progress_height_material=0x7f08003b;
+        public static final int abc_select_dialog_padding_start_material=0x7f08003c;
+        public static final int abc_switch_padding=0x7f080017;
+        public static final int abc_text_size_body_1_material=0x7f08003d;
+        public static final int abc_text_size_body_2_material=0x7f08003e;
+        public static final int abc_text_size_button_material=0x7f08003f;
+        public static final int abc_text_size_caption_material=0x7f080040;
+        public static final int abc_text_size_display_1_material=0x7f080041;
+        public static final int abc_text_size_display_2_material=0x7f080042;
+        public static final int abc_text_size_display_3_material=0x7f080043;
+        public static final int abc_text_size_display_4_material=0x7f080044;
+        public static final int abc_text_size_headline_material=0x7f080045;
+        public static final int abc_text_size_large_material=0x7f080046;
+        public static final int abc_text_size_medium_material=0x7f080047;
+        public static final int abc_text_size_menu_material=0x7f080048;
+        public static final int abc_text_size_small_material=0x7f080049;
+        public static final int abc_text_size_subhead_material=0x7f08004a;
         public static final int abc_text_size_subtitle_material_toolbar=0x7f080003;
-        public static final int abc_text_size_title_material=0x7f080043;
+        public static final int abc_text_size_title_material=0x7f08004b;
         public static final int abc_text_size_title_material_toolbar=0x7f080004;
-        public static final int activity_horizontal_margin=0x7f080011;
-        public static final int activity_vertical_margin=0x7f080044;
-        public static final int disabled_alpha_material_dark=0x7f080045;
-        public static final int disabled_alpha_material_light=0x7f080046;
-        public static final int highlight_alpha_material_colored=0x7f080047;
-        public static final int highlight_alpha_material_dark=0x7f080048;
-        public static final int highlight_alpha_material_light=0x7f080049;
-        public static final int notification_large_icon_height=0x7f08004a;
-        public static final int notification_large_icon_width=0x7f08004b;
-        public static final int notification_subtext_size=0x7f08004c;
+        public static final int activity_horizontal_margin=0x7f080019;
+        public static final int activity_vertical_margin=0x7f08004c;
+        public static final int design_appbar_elevation=0x7f08004d;
+        public static final int design_fab_border_width=0x7f08004e;
+        public static final int design_fab_content_size=0x7f08004f;
+        public static final int design_fab_elevation=0x7f080050;
+        public static final int design_fab_size_mini=0x7f080051;
+        public static final int design_fab_size_normal=0x7f080052;
+        public static final int design_fab_translation_z_pressed=0x7f080053;
+        public static final int design_navigation_elevation=0x7f080054;
+        public static final int design_navigation_icon_padding=0x7f080055;
+        public static final int design_navigation_icon_size=0x7f080056;
+        public static final int design_navigation_max_width=0x7f080057;
+        public static final int design_navigation_padding_bottom=0x7f080058;
+        public static final int design_navigation_padding_top_default=0x7f080018;
+        public static final int design_navigation_separator_vertical_padding=0x7f080059;
+        public static final int design_snackbar_action_inline_max_width=0x7f080010;
+        public static final int design_snackbar_background_corner_radius=0x7f080011;
+        public static final int design_snackbar_elevation=0x7f08005a;
+        public static final int design_snackbar_extra_spacing_horizontal=0x7f080012;
+        public static final int design_snackbar_max_width=0x7f080013;
+        public static final int design_snackbar_min_width=0x7f080014;
+        public static final int design_snackbar_padding_horizontal=0x7f08005b;
+        public static final int design_snackbar_padding_vertical=0x7f08005c;
+        public static final int design_snackbar_padding_vertical_2lines=0x7f080015;
+        public static final int design_snackbar_text_size=0x7f08005d;
+        public static final int design_tab_max_width=0x7f08005e;
+        public static final int design_tab_scrollable_min_width=0x7f080016;
+        public static final int design_tab_text_size=0x7f08005f;
+        public static final int design_tab_text_size_2line=0x7f080060;
+        public static final int disabled_alpha_material_dark=0x7f080061;
+        public static final int disabled_alpha_material_light=0x7f080062;
+        public static final int highlight_alpha_material_colored=0x7f080063;
+        public static final int highlight_alpha_material_dark=0x7f080064;
+        public static final int highlight_alpha_material_light=0x7f080065;
+        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f080066;
+        public static final int notification_large_icon_height=0x7f080067;
+        public static final int notification_large_icon_width=0x7f080068;
+        public static final int notification_subtext_size=0x7f080069;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
@@ -1599,126 +2199,161 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020043;
         public static final int abc_textfield_search_material=0x7f020044;
         public static final int bussiness=0x7f020045;
-        public static final int home=0x7f020046;
-        public static final int ic_drawer=0x7f020047;
-        public static final int news=0x7f020048;
-        public static final int notification_template_icon_bg=0x7f02004b;
-        public static final int sport=0x7f020049;
-        public static final int world=0x7f02004a;
+        public static final int design_fab_background=0x7f020046;
+        public static final int design_snackbar_background=0x7f020047;
+        public static final int home=0x7f020048;
+        public static final int ic_drawer=0x7f020049;
+        public static final int news=0x7f02004a;
+        public static final int notification_template_icon_bg=0x7f02004d;
+        public static final int sport=0x7f02004b;
+        public static final int world=0x7f02004c;
     }
     public static final class id {
-        public static final int action0=0x7f0d005b;
-        public static final int action_bar=0x7f0d0041;
+        public static final int action0=0x7f0d007b;
+        public static final int action_bar=0x7f0d005a;
         public static final int action_bar_activity_content=0x7f0d0000;
-        public static final int action_bar_container=0x7f0d0040;
-        public static final int action_bar_root=0x7f0d003c;
+        public static final int action_bar_container=0x7f0d0059;
+        public static final int action_bar_root=0x7f0d0055;
         public static final int action_bar_spinner=0x7f0d0001;
-        public static final int action_bar_subtitle=0x7f0d0022;
-        public static final int action_bar_title=0x7f0d0021;
-        public static final int action_context_bar=0x7f0d0042;
-        public static final int action_divider=0x7f0d005f;
+        public static final int action_bar_subtitle=0x7f0d003b;
+        public static final int action_bar_title=0x7f0d003a;
+        public static final int action_context_bar=0x7f0d005b;
+        public static final int action_divider=0x7f0d007f;
         public static final int action_menu_divider=0x7f0d0002;
         public static final int action_menu_presenter=0x7f0d0003;
-        public static final int action_mode_bar=0x7f0d003e;
-        public static final int action_mode_bar_stub=0x7f0d003d;
-        public static final int action_mode_close_button=0x7f0d0023;
-        public static final int action_settings=0x7f0d0068;
-        public static final int activity_chooser_view_content=0x7f0d0024;
-        public static final int alertTitle=0x7f0d0030;
-        public static final int always=0x7f0d001b;
-        public static final int beginning=0x7f0d0018;
-        public static final int buttonPanel=0x7f0d002b;
-        public static final int cancel_action=0x7f0d005c;
-        public static final int checkbox=0x7f0d0039;
-        public static final int chronometer=0x7f0d0062;
-        public static final int collapseActionView=0x7f0d001c;
-        public static final int contentPanel=0x7f0d0031;
-        public static final int custom=0x7f0d0037;
-        public static final int customPanel=0x7f0d0036;
-        public static final int decor_content_parent=0x7f0d003f;
-        public static final int default_activity_button=0x7f0d0027;
-        public static final int disableHome=0x7f0d000c;
-        public static final int drawer_layout=0x7f0d0050;
-        public static final int edit_query=0x7f0d0043;
-        public static final int end=0x7f0d0019;
-        public static final int end_padder=0x7f0d0067;
-        public static final int expand_activities_button=0x7f0d0025;
-        public static final int expanded_menu=0x7f0d0038;
-        public static final int fragment_detail=0x7f0d0051;
+        public static final int action_mode_bar=0x7f0d0057;
+        public static final int action_mode_bar_stub=0x7f0d0056;
+        public static final int action_mode_close_button=0x7f0d003c;
+        public static final int action_settings=0x7f0d0088;
+        public static final int activity_chooser_view_content=0x7f0d003d;
+        public static final int alertTitle=0x7f0d0049;
+        public static final int always=0x7f0d0032;
+        public static final int beginning=0x7f0d0030;
+        public static final int bottom=0x7f0d001c;
+        public static final int buttonPanel=0x7f0d0044;
+        public static final int cancel_action=0x7f0d007c;
+        public static final int center=0x7f0d001d;
+        public static final int center_horizontal=0x7f0d001e;
+        public static final int center_vertical=0x7f0d001f;
+        public static final int checkbox=0x7f0d0052;
+        public static final int chronometer=0x7f0d0082;
+        public static final int clip_horizontal=0x7f0d002b;
+        public static final int clip_vertical=0x7f0d002c;
+        public static final int collapseActionView=0x7f0d0033;
+        public static final int contentPanel=0x7f0d004a;
+        public static final int custom=0x7f0d0050;
+        public static final int customPanel=0x7f0d004f;
+        public static final int decor_content_parent=0x7f0d0058;
+        public static final int default_activity_button=0x7f0d0040;
+        public static final int design_menu_item_action_area=0x7f0d0072;
+        public static final int design_menu_item_action_area_stub=0x7f0d0071;
+        public static final int design_menu_item_text=0x7f0d0070;
+        public static final int design_navigation_view=0x7f0d006f;
+        public static final int disableHome=0x7f0d000e;
+        public static final int drawer_layout=0x7f0d0069;
+        public static final int edit_query=0x7f0d005c;
+        public static final int end=0x7f0d0020;
+        public static final int end_padder=0x7f0d0087;
+        public static final int enterAlways=0x7f0d0015;
+        public static final int enterAlwaysCollapsed=0x7f0d0016;
+        public static final int exitUntilCollapsed=0x7f0d0017;
+        public static final int expand_activities_button=0x7f0d003e;
+        public static final int expanded_menu=0x7f0d0051;
+        public static final int fill=0x7f0d002d;
+        public static final int fill_horizontal=0x7f0d002e;
+        public static final int fill_vertical=0x7f0d0021;
+        public static final int fixed=0x7f0d0037;
+        public static final int fragment_detail=0x7f0d006a;
         public static final int home=0x7f0d0004;
-        public static final int homeAsUp=0x7f0d000d;
-        public static final int icon=0x7f0d0029;
-        public static final int ifRoom=0x7f0d001d;
-        public static final int im_icon=0x7f0d0055;
-        public static final int image=0x7f0d0026;
-        public static final int info=0x7f0d0066;
-        public static final int line1=0x7f0d0060;
-        public static final int line3=0x7f0d0064;
-        public static final int listMode=0x7f0d0009;
-        public static final int list_item=0x7f0d0028;
-        public static final int lv_bussiness=0x7f0d0053;
-        public static final int lv_home=0x7f0d0057;
-        public static final int lv_news=0x7f0d0058;
-        public static final int lv_sliding_menu=0x7f0d0052;
-        public static final int lv_sport=0x7f0d0059;
-        public static final int lv_world=0x7f0d005a;
-        public static final int media_actions=0x7f0d005e;
-        public static final int middle=0x7f0d001a;
-        public static final int multiply=0x7f0d0013;
-        public static final int never=0x7f0d001e;
-        public static final int none=0x7f0d000e;
-        public static final int normal=0x7f0d000a;
-        public static final int parentPanel=0x7f0d002d;
-        public static final int progress_circular=0x7f0d0005;
-        public static final int progress_horizontal=0x7f0d0006;
-        public static final int radio=0x7f0d003b;
-        public static final int screen=0x7f0d0014;
-        public static final int scrollIndicatorDown=0x7f0d0035;
-        public static final int scrollIndicatorUp=0x7f0d0032;
-        public static final int scrollView=0x7f0d0033;
-        public static final int search_badge=0x7f0d0045;
-        public static final int search_bar=0x7f0d0044;
-        public static final int search_button=0x7f0d0046;
-        public static final int search_close_btn=0x7f0d004b;
-        public static final int search_edit_frame=0x7f0d0047;
-        public static final int search_go_btn=0x7f0d004d;
-        public static final int search_mag_icon=0x7f0d0048;
-        public static final int search_plate=0x7f0d0049;
-        public static final int search_src_text=0x7f0d004a;
-        public static final int search_voice_btn=0x7f0d004e;
-        public static final int select_dialog_listview=0x7f0d004f;
-        public static final int shortcut=0x7f0d003a;
-        public static final int showCustom=0x7f0d000f;
-        public static final int showHome=0x7f0d0010;
-        public static final int showTitle=0x7f0d0011;
-        public static final int spacer=0x7f0d002c;
-        public static final int split_action_bar=0x7f0d0007;
-        public static final int src_atop=0x7f0d0015;
-        public static final int src_in=0x7f0d0016;
-        public static final int src_over=0x7f0d0017;
-        public static final int status_bar_latest_event_content=0x7f0d005d;
-        public static final int submit_area=0x7f0d004c;
-        public static final int tabMode=0x7f0d000b;
-        public static final int text=0x7f0d0065;
-        public static final int text2=0x7f0d0063;
-        public static final int textSpacerNoButtons=0x7f0d0034;
-        public static final int time=0x7f0d0061;
-        public static final int title=0x7f0d002a;
-        public static final int title_template=0x7f0d002f;
-        public static final int topPanel=0x7f0d002e;
-        public static final int tv=0x7f0d0056;
-        public static final int tv_detail=0x7f0d0054;
-        public static final int up=0x7f0d0008;
-        public static final int useLogo=0x7f0d0012;
-        public static final int withText=0x7f0d001f;
-        public static final int wrap_content=0x7f0d0020;
+        public static final int homeAsUp=0x7f0d000f;
+        public static final int icon=0x7f0d0042;
+        public static final int ifRoom=0x7f0d0034;
+        public static final int im_icon=0x7f0d0075;
+        public static final int image=0x7f0d003f;
+        public static final int info=0x7f0d0086;
+        public static final int item_touch_helper_previous_elevation=0x7f0d0005;
+        public static final int left=0x7f0d0022;
+        public static final int line1=0x7f0d0080;
+        public static final int line3=0x7f0d0084;
+        public static final int listMode=0x7f0d000b;
+        public static final int list_item=0x7f0d0041;
+        public static final int lv_bussiness=0x7f0d0073;
+        public static final int lv_home=0x7f0d0077;
+        public static final int lv_news=0x7f0d0078;
+        public static final int lv_sliding_menu=0x7f0d006b;
+        public static final int lv_sport=0x7f0d0079;
+        public static final int lv_world=0x7f0d007a;
+        public static final int media_actions=0x7f0d007e;
+        public static final int middle=0x7f0d0031;
+        public static final int mini=0x7f0d002f;
+        public static final int multiply=0x7f0d0026;
+        public static final int navigation_header_container=0x7f0d006e;
+        public static final int never=0x7f0d0035;
+        public static final int none=0x7f0d0010;
+        public static final int normal=0x7f0d000c;
+        public static final int parallax=0x7f0d001a;
+        public static final int parentPanel=0x7f0d0046;
+        public static final int pin=0x7f0d001b;
+        public static final int progress_circular=0x7f0d0006;
+        public static final int progress_horizontal=0x7f0d0007;
+        public static final int radio=0x7f0d0054;
+        public static final int right=0x7f0d0023;
+        public static final int screen=0x7f0d0027;
+        public static final int scroll=0x7f0d0018;
+        public static final int scrollIndicatorDown=0x7f0d004e;
+        public static final int scrollIndicatorUp=0x7f0d004b;
+        public static final int scrollView=0x7f0d004c;
+        public static final int scrollable=0x7f0d0038;
+        public static final int search_badge=0x7f0d005e;
+        public static final int search_bar=0x7f0d005d;
+        public static final int search_button=0x7f0d005f;
+        public static final int search_close_btn=0x7f0d0064;
+        public static final int search_edit_frame=0x7f0d0060;
+        public static final int search_go_btn=0x7f0d0066;
+        public static final int search_mag_icon=0x7f0d0061;
+        public static final int search_plate=0x7f0d0062;
+        public static final int search_src_text=0x7f0d0063;
+        public static final int search_voice_btn=0x7f0d0067;
+        public static final int select_dialog_listview=0x7f0d0068;
+        public static final int shortcut=0x7f0d0053;
+        public static final int showCustom=0x7f0d0011;
+        public static final int showHome=0x7f0d0012;
+        public static final int showTitle=0x7f0d0013;
+        public static final int snackbar_action=0x7f0d006d;
+        public static final int snackbar_text=0x7f0d006c;
+        public static final int snap=0x7f0d0019;
+        public static final int spacer=0x7f0d0045;
+        public static final int split_action_bar=0x7f0d0008;
+        public static final int src_atop=0x7f0d0028;
+        public static final int src_in=0x7f0d0029;
+        public static final int src_over=0x7f0d002a;
+        public static final int start=0x7f0d0024;
+        public static final int status_bar_latest_event_content=0x7f0d007d;
+        public static final int submit_area=0x7f0d0065;
+        public static final int tabMode=0x7f0d000d;
+        public static final int text=0x7f0d0085;
+        public static final int text2=0x7f0d0083;
+        public static final int textSpacerNoButtons=0x7f0d004d;
+        public static final int time=0x7f0d0081;
+        public static final int title=0x7f0d0043;
+        public static final int title_template=0x7f0d0048;
+        public static final int top=0x7f0d0025;
+        public static final int topPanel=0x7f0d0047;
+        public static final int tv=0x7f0d0076;
+        public static final int tv_detail=0x7f0d0074;
+        public static final int up=0x7f0d0009;
+        public static final int useLogo=0x7f0d0014;
+        public static final int view_offset_helper=0x7f0d000a;
+        public static final int withText=0x7f0d0036;
+        public static final int wrap_content=0x7f0d0039;
     }
     public static final class integer {
-        public static final int abc_config_activityDefaultDur=0x7f0a0001;
-        public static final int abc_config_activityShortDur=0x7f0a0002;
+        public static final int abc_config_activityDefaultDur=0x7f0a0002;
+        public static final int abc_config_activityShortDur=0x7f0a0003;
         public static final int abc_max_action_buttons=0x7f0a0000;
-        public static final int cancel_button_image_alpha=0x7f0a0003;
-        public static final int status_bar_notification_info_maxnum=0x7f0a0004;
+        public static final int cancel_button_image_alpha=0x7f0a0004;
+        public static final int design_snackbar_text_max_lines=0x7f0a0001;
+        public static final int status_bar_notification_info_maxnum=0x7f0a0005;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item=0x7f040000;
@@ -1747,25 +2382,36 @@ containing a value of this type.
         public static final int abc_search_view=0x7f040017;
         public static final int abc_select_dialog_material=0x7f040018;
         public static final int activity_main=0x7f040019;
-        public static final int fragment_bussiness=0x7f04001a;
-        public static final int fragment_detail=0x7f04001b;
-        public static final int fragment_home=0x7f04001c;
-        public static final int fragment_news=0x7f04001d;
-        public static final int fragment_sport=0x7f04001e;
-        public static final int fragment_world=0x7f04001f;
-        public static final int notification_media_action=0x7f040020;
-        public static final int notification_media_cancel_action=0x7f040021;
-        public static final int notification_template_big_media=0x7f040022;
-        public static final int notification_template_big_media_narrow=0x7f040023;
-        public static final int notification_template_lines=0x7f040024;
-        public static final int notification_template_media=0x7f040025;
-        public static final int notification_template_part_chronometer=0x7f040026;
-        public static final int notification_template_part_time=0x7f040027;
-        public static final int select_dialog_item_material=0x7f040028;
-        public static final int select_dialog_multichoice_material=0x7f040029;
-        public static final int select_dialog_singlechoice_material=0x7f04002a;
-        public static final int sliding_menu_item=0x7f04002b;
-        public static final int support_simple_spinner_dropdown_item=0x7f04002c;
+        public static final int design_layout_snackbar=0x7f04001a;
+        public static final int design_layout_snackbar_include=0x7f04001b;
+        public static final int design_layout_tab_icon=0x7f04001c;
+        public static final int design_layout_tab_text=0x7f04001d;
+        public static final int design_menu_item_action_area=0x7f04001e;
+        public static final int design_navigation_item=0x7f04001f;
+        public static final int design_navigation_item_header=0x7f040020;
+        public static final int design_navigation_item_separator=0x7f040021;
+        public static final int design_navigation_item_subheader=0x7f040022;
+        public static final int design_navigation_menu=0x7f040023;
+        public static final int design_navigation_menu_item=0x7f040024;
+        public static final int fragment_bussiness=0x7f040025;
+        public static final int fragment_detail=0x7f040026;
+        public static final int fragment_home=0x7f040027;
+        public static final int fragment_news=0x7f040028;
+        public static final int fragment_sport=0x7f040029;
+        public static final int fragment_world=0x7f04002a;
+        public static final int notification_media_action=0x7f04002b;
+        public static final int notification_media_cancel_action=0x7f04002c;
+        public static final int notification_template_big_media=0x7f04002d;
+        public static final int notification_template_big_media_narrow=0x7f04002e;
+        public static final int notification_template_lines=0x7f04002f;
+        public static final int notification_template_media=0x7f040030;
+        public static final int notification_template_part_chronometer=0x7f040031;
+        public static final int notification_template_part_time=0x7f040032;
+        public static final int select_dialog_item_material=0x7f040033;
+        public static final int select_dialog_multichoice_material=0x7f040034;
+        public static final int select_dialog_singlechoice_material=0x7f040035;
+        public static final int sliding_menu_item=0x7f040036;
+        public static final int support_simple_spinner_dropdown_item=0x7f040037;
     }
     public static final class menu {
         public static final int menu=0x7f0e0000;
@@ -1795,326 +2441,345 @@ containing a value of this type.
         public static final int abc_toolbar_collapse_description=0x7f060012;
         public static final int action_settings=0x7f060014;
         public static final int app_name=0x7f060015;
+        public static final int appbar_scrolling_view_behavior=0x7f060016;
+        public static final int character_counter_pattern=0x7f060017;
         public static final int status_bar_notification_info_overflow=0x7f060013;
     }
     public static final class style {
-        public static final int AlertDialog_AppCompat=0x7f09007d;
-        public static final int AlertDialog_AppCompat_Light=0x7f09007e;
-        public static final int Animation_AppCompat_Dialog=0x7f09007f;
-        public static final int Animation_AppCompat_DropDownUp=0x7f090080;
+        public static final int AlertDialog_AppCompat=0x7f09007e;
+        public static final int AlertDialog_AppCompat_Light=0x7f09007f;
+        public static final int Animation_AppCompat_Dialog=0x7f090080;
+        public static final int Animation_AppCompat_DropDownUp=0x7f090081;
         /** 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
          */
-        public static final int AppBaseTheme=0x7f090081;
+        public static final int AppBaseTheme=0x7f090082;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f090082;
-        public static final int Base_AlertDialog_AppCompat=0x7f090083;
-        public static final int Base_AlertDialog_AppCompat_Light=0x7f090084;
-        public static final int Base_Animation_AppCompat_Dialog=0x7f090085;
-        public static final int Base_Animation_AppCompat_DropDownUp=0x7f090086;
-        public static final int Base_DialogWindowTitle_AppCompat=0x7f090087;
-        public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f090088;
-        public static final int Base_TextAppearance_AppCompat=0x7f09002f;
-        public static final int Base_TextAppearance_AppCompat_Body1=0x7f090030;
-        public static final int Base_TextAppearance_AppCompat_Body2=0x7f090031;
-        public static final int Base_TextAppearance_AppCompat_Button=0x7f090019;
-        public static final int Base_TextAppearance_AppCompat_Caption=0x7f090032;
-        public static final int Base_TextAppearance_AppCompat_Display1=0x7f090033;
-        public static final int Base_TextAppearance_AppCompat_Display2=0x7f090034;
-        public static final int Base_TextAppearance_AppCompat_Display3=0x7f090035;
-        public static final int Base_TextAppearance_AppCompat_Display4=0x7f090036;
-        public static final int Base_TextAppearance_AppCompat_Headline=0x7f090037;
-        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f090004;
-        public static final int Base_TextAppearance_AppCompat_Large=0x7f090038;
-        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f090005;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f090039;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f09003a;
-        public static final int Base_TextAppearance_AppCompat_Medium=0x7f09003b;
-        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f090006;
-        public static final int Base_TextAppearance_AppCompat_Menu=0x7f09003c;
-        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f090089;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f09003d;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f09003e;
-        public static final int Base_TextAppearance_AppCompat_Small=0x7f09003f;
-        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f090007;
-        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f090040;
-        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f090008;
-        public static final int Base_TextAppearance_AppCompat_Title=0x7f090041;
-        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f090009;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f090042;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f090043;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f090044;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f090045;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f090046;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f090047;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f090048;
-        public static final int Base_TextAppearance_AppCompat_Widget_Button=0x7f090049;
-        public static final int Base_TextAppearance_AppCompat_Widget_Button_Inverse=0x7f090079;
-        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f09008a;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f09004a;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f09004b;
-        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f09004c;
-        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f09004d;
-        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f09008b;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f09004e;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f09004f;
-        public static final int Base_Theme_AppCompat=0x7f090050;
-        public static final int Base_Theme_AppCompat_CompactMenu=0x7f09008c;
-        public static final int Base_Theme_AppCompat_Dialog=0x7f09000a;
-        public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f09008d;
-        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f09008e;
-        public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f09008f;
-        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f090001;
-        public static final int Base_Theme_AppCompat_Light=0x7f090051;
-        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f090090;
-        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f09000b;
-        public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f090091;
-        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f090092;
-        public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f090093;
-        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f090002;
-        public static final int Base_ThemeOverlay_AppCompat=0x7f090094;
-        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f090095;
-        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f090096;
-        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f090097;
-        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f090098;
-        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f09000c;
-        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f09000d;
-        public static final int Base_V12_Widget_AppCompat_AutoCompleteTextView=0x7f090015;
-        public static final int Base_V12_Widget_AppCompat_EditText=0x7f090016;
-        public static final int Base_V21_Theme_AppCompat=0x7f090052;
-        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f090053;
-        public static final int Base_V21_Theme_AppCompat_Light=0x7f090054;
-        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f090055;
-        public static final int Base_V22_Theme_AppCompat=0x7f090077;
-        public static final int Base_V22_Theme_AppCompat_Light=0x7f090078;
-        public static final int Base_V23_Theme_AppCompat=0x7f09007a;
-        public static final int Base_V23_Theme_AppCompat_Light=0x7f09007b;
-        public static final int Base_V7_Theme_AppCompat=0x7f090099;
-        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f09009a;
-        public static final int Base_V7_Theme_AppCompat_Light=0x7f09009b;
-        public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f09009c;
-        public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f09009d;
-        public static final int Base_V7_Widget_AppCompat_EditText=0x7f09009e;
-        public static final int Base_Widget_AppCompat_ActionBar=0x7f09009f;
-        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f0900a0;
-        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f0900a1;
-        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f090056;
-        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f090057;
-        public static final int Base_Widget_AppCompat_ActionButton=0x7f090058;
-        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f090059;
-        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f09005a;
-        public static final int Base_Widget_AppCompat_ActionMode=0x7f0900a2;
-        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f0900a3;
-        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f090017;
-        public static final int Base_Widget_AppCompat_Button=0x7f09005b;
-        public static final int Base_Widget_AppCompat_Button_Borderless=0x7f09005c;
-        public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f09005d;
-        public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0900a4;
-        public static final int Base_Widget_AppCompat_Button_Colored=0x7f09007c;
-        public static final int Base_Widget_AppCompat_Button_Small=0x7f09005e;
-        public static final int Base_Widget_AppCompat_ButtonBar=0x7f09005f;
-        public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f0900a5;
-        public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f090060;
-        public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f090061;
-        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f0900a6;
+        public static final int AppTheme=0x7f090083;
+        public static final int Base_AlertDialog_AppCompat=0x7f090084;
+        public static final int Base_AlertDialog_AppCompat_Light=0x7f090085;
+        public static final int Base_Animation_AppCompat_Dialog=0x7f090086;
+        public static final int Base_Animation_AppCompat_DropDownUp=0x7f090087;
+        public static final int Base_DialogWindowTitle_AppCompat=0x7f090088;
+        public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f090089;
+        public static final int Base_TextAppearance_AppCompat=0x7f090030;
+        public static final int Base_TextAppearance_AppCompat_Body1=0x7f090031;
+        public static final int Base_TextAppearance_AppCompat_Body2=0x7f090032;
+        public static final int Base_TextAppearance_AppCompat_Button=0x7f09001a;
+        public static final int Base_TextAppearance_AppCompat_Caption=0x7f090033;
+        public static final int Base_TextAppearance_AppCompat_Display1=0x7f090034;
+        public static final int Base_TextAppearance_AppCompat_Display2=0x7f090035;
+        public static final int Base_TextAppearance_AppCompat_Display3=0x7f090036;
+        public static final int Base_TextAppearance_AppCompat_Display4=0x7f090037;
+        public static final int Base_TextAppearance_AppCompat_Headline=0x7f090038;
+        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f090005;
+        public static final int Base_TextAppearance_AppCompat_Large=0x7f090039;
+        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f090006;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f09003a;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f09003b;
+        public static final int Base_TextAppearance_AppCompat_Medium=0x7f09003c;
+        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f090007;
+        public static final int Base_TextAppearance_AppCompat_Menu=0x7f09003d;
+        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f09008a;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f09003e;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f09003f;
+        public static final int Base_TextAppearance_AppCompat_Small=0x7f090040;
+        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f090008;
+        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f090041;
+        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f090009;
+        public static final int Base_TextAppearance_AppCompat_Title=0x7f090042;
+        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f09000a;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f090043;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f090044;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f090045;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f090046;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f090047;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f090048;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f090049;
+        public static final int Base_TextAppearance_AppCompat_Widget_Button=0x7f09004a;
+        public static final int Base_TextAppearance_AppCompat_Widget_Button_Inverse=0x7f09007a;
+        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f09008b;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f09004b;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f09004c;
+        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f09004d;
+        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f09004e;
+        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f09008c;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f09004f;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f090050;
+        public static final int Base_Theme_AppCompat=0x7f090051;
+        public static final int Base_Theme_AppCompat_CompactMenu=0x7f09008d;
+        public static final int Base_Theme_AppCompat_Dialog=0x7f09000b;
+        public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f09008e;
+        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f09008f;
+        public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f090090;
+        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f090002;
+        public static final int Base_Theme_AppCompat_Light=0x7f090052;
+        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f090091;
+        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f09000c;
+        public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f090092;
+        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f090093;
+        public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f090094;
+        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f090003;
+        public static final int Base_ThemeOverlay_AppCompat=0x7f090095;
+        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f090096;
+        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f090097;
+        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f090098;
+        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f090099;
+        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f09000d;
+        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f09000e;
+        public static final int Base_V12_Widget_AppCompat_AutoCompleteTextView=0x7f090016;
+        public static final int Base_V12_Widget_AppCompat_EditText=0x7f090017;
+        public static final int Base_V21_Theme_AppCompat=0x7f090053;
+        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f090054;
+        public static final int Base_V21_Theme_AppCompat_Light=0x7f090055;
+        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f090056;
+        public static final int Base_V22_Theme_AppCompat=0x7f090078;
+        public static final int Base_V22_Theme_AppCompat_Light=0x7f090079;
+        public static final int Base_V23_Theme_AppCompat=0x7f09007b;
+        public static final int Base_V23_Theme_AppCompat_Light=0x7f09007c;
+        public static final int Base_V7_Theme_AppCompat=0x7f09009a;
+        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f09009b;
+        public static final int Base_V7_Theme_AppCompat_Light=0x7f09009c;
+        public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f09009d;
+        public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f09009e;
+        public static final int Base_V7_Widget_AppCompat_EditText=0x7f09009f;
+        public static final int Base_Widget_AppCompat_ActionBar=0x7f0900a0;
+        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f0900a1;
+        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f0900a2;
+        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f090057;
+        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f090058;
+        public static final int Base_Widget_AppCompat_ActionButton=0x7f090059;
+        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f09005a;
+        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f09005b;
+        public static final int Base_Widget_AppCompat_ActionMode=0x7f0900a3;
+        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f0900a4;
+        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f090018;
+        public static final int Base_Widget_AppCompat_Button=0x7f09005c;
+        public static final int Base_Widget_AppCompat_Button_Borderless=0x7f09005d;
+        public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f09005e;
+        public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0900a5;
+        public static final int Base_Widget_AppCompat_Button_Colored=0x7f09007d;
+        public static final int Base_Widget_AppCompat_Button_Small=0x7f09005f;
+        public static final int Base_Widget_AppCompat_ButtonBar=0x7f090060;
+        public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f0900a6;
+        public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f090061;
+        public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f090062;
+        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f0900a7;
         public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f090000;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f0900a7;
-        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f090062;
-        public static final int Base_Widget_AppCompat_EditText=0x7f090018;
-        public static final int Base_Widget_AppCompat_ImageButton=0x7f090063;
-        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0900a8;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0900a9;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0900aa;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f090064;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f090065;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f090066;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f090067;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f090068;
-        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f090069;
-        public static final int Base_Widget_AppCompat_ListView=0x7f09006a;
-        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f09006b;
-        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f09006c;
-        public static final int Base_Widget_AppCompat_PopupMenu=0x7f09006d;
-        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f09006e;
-        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0900ab;
-        public static final int Base_Widget_AppCompat_ProgressBar=0x7f09000e;
-        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f09000f;
-        public static final int Base_Widget_AppCompat_RatingBar=0x7f09006f;
-        public static final int Base_Widget_AppCompat_SearchView=0x7f0900ac;
-        public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f0900ad;
-        public static final int Base_Widget_AppCompat_SeekBar=0x7f090070;
-        public static final int Base_Widget_AppCompat_Spinner=0x7f090071;
-        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f090003;
-        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f090072;
-        public static final int Base_Widget_AppCompat_Toolbar=0x7f0900ae;
-        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f090073;
-        public static final int Platform_AppCompat=0x7f090010;
-        public static final int Platform_AppCompat_Light=0x7f090011;
-        public static final int Platform_ThemeOverlay_AppCompat=0x7f090074;
-        public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f090075;
-        public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f090076;
-        public static final int Platform_V11_AppCompat=0x7f090012;
-        public static final int Platform_V11_AppCompat_Light=0x7f090013;
-        public static final int Platform_V14_AppCompat=0x7f09001a;
-        public static final int Platform_V14_AppCompat_Light=0x7f09001b;
-        public static final int Platform_Widget_AppCompat_Spinner=0x7f090014;
-        public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f090021;
-        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f090022;
-        public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f090023;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f090024;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f090025;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f090026;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f090027;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f090028;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f090029;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f09002a;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f09002b;
-        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f09002c;
-        public static final int RtlUnderlay_Widget_AppCompat_ActionButton=0x7f09002d;
-        public static final int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow=0x7f09002e;
-        public static final int TextAppearance_AppCompat=0x7f0900af;
-        public static final int TextAppearance_AppCompat_Body1=0x7f0900b0;
-        public static final int TextAppearance_AppCompat_Body2=0x7f0900b1;
-        public static final int TextAppearance_AppCompat_Button=0x7f0900b2;
-        public static final int TextAppearance_AppCompat_Caption=0x7f0900b3;
-        public static final int TextAppearance_AppCompat_Display1=0x7f0900b4;
-        public static final int TextAppearance_AppCompat_Display2=0x7f0900b5;
-        public static final int TextAppearance_AppCompat_Display3=0x7f0900b6;
-        public static final int TextAppearance_AppCompat_Display4=0x7f0900b7;
-        public static final int TextAppearance_AppCompat_Headline=0x7f0900b8;
-        public static final int TextAppearance_AppCompat_Inverse=0x7f0900b9;
-        public static final int TextAppearance_AppCompat_Large=0x7f0900ba;
-        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0900bb;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0900bc;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0900bd;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0900be;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0900bf;
-        public static final int TextAppearance_AppCompat_Medium=0x7f0900c0;
-        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0900c1;
-        public static final int TextAppearance_AppCompat_Menu=0x7f0900c2;
-        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0900c3;
-        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0900c4;
-        public static final int TextAppearance_AppCompat_Small=0x7f0900c5;
-        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0900c6;
-        public static final int TextAppearance_AppCompat_Subhead=0x7f0900c7;
-        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0900c8;
-        public static final int TextAppearance_AppCompat_Title=0x7f0900c9;
-        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0900ca;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0900cb;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0900cc;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0900cd;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0900ce;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0900cf;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0900d0;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0900d1;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0900d2;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0900d3;
-        public static final int TextAppearance_AppCompat_Widget_Button=0x7f0900d4;
-        public static final int TextAppearance_AppCompat_Widget_Button_Inverse=0x7f0900d5;
-        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0900d6;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0900d7;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0900d8;
-        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0900d9;
-        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0900da;
-        public static final int TextAppearance_StatusBar_EventContent=0x7f09001c;
-        public static final int TextAppearance_StatusBar_EventContent_Info=0x7f09001d;
-        public static final int TextAppearance_StatusBar_EventContent_Line2=0x7f09001e;
-        public static final int TextAppearance_StatusBar_EventContent_Time=0x7f09001f;
-        public static final int TextAppearance_StatusBar_EventContent_Title=0x7f090020;
-        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0900db;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0900dc;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0900dd;
-        public static final int Theme_AppCompat=0x7f0900de;
-        public static final int Theme_AppCompat_CompactMenu=0x7f0900df;
-        public static final int Theme_AppCompat_Dialog=0x7f0900e0;
-        public static final int Theme_AppCompat_Dialog_Alert=0x7f0900e1;
-        public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0900e2;
-        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0900e3;
-        public static final int Theme_AppCompat_Light=0x7f0900e4;
-        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0900e5;
-        public static final int Theme_AppCompat_Light_Dialog=0x7f0900e6;
-        public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0900e7;
-        public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0900e8;
-        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0900e9;
-        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0900ea;
-        public static final int Theme_AppCompat_NoActionBar=0x7f0900eb;
-        public static final int ThemeOverlay_AppCompat=0x7f0900ec;
-        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0900ed;
-        public static final int ThemeOverlay_AppCompat_Dark=0x7f0900ee;
-        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0900ef;
-        public static final int ThemeOverlay_AppCompat_Light=0x7f0900f0;
-        public static final int Widget_AppCompat_ActionBar=0x7f0900f1;
-        public static final int Widget_AppCompat_ActionBar_Solid=0x7f0900f2;
-        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0900f3;
-        public static final int Widget_AppCompat_ActionBar_TabText=0x7f0900f4;
-        public static final int Widget_AppCompat_ActionBar_TabView=0x7f0900f5;
-        public static final int Widget_AppCompat_ActionButton=0x7f0900f6;
-        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f0900f7;
-        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f0900f8;
-        public static final int Widget_AppCompat_ActionMode=0x7f0900f9;
-        public static final int Widget_AppCompat_ActivityChooserView=0x7f0900fa;
-        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0900fb;
-        public static final int Widget_AppCompat_Button=0x7f0900fc;
-        public static final int Widget_AppCompat_Button_Borderless=0x7f0900fd;
-        public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f0900fe;
-        public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0900ff;
-        public static final int Widget_AppCompat_Button_Colored=0x7f090100;
-        public static final int Widget_AppCompat_Button_Small=0x7f090101;
-        public static final int Widget_AppCompat_ButtonBar=0x7f090102;
-        public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f090103;
-        public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f090104;
-        public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f090105;
-        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f090106;
-        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f090107;
-        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f090108;
-        public static final int Widget_AppCompat_EditText=0x7f090109;
-        public static final int Widget_AppCompat_ImageButton=0x7f09010a;
-        public static final int Widget_AppCompat_Light_ActionBar=0x7f09010b;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f09010c;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f09010d;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f09010e;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f09010f;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f090110;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f090111;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f090112;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f090113;
-        public static final int Widget_AppCompat_Light_ActionButton=0x7f090114;
-        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f090115;
-        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f090116;
-        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f090117;
-        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f090118;
-        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f090119;
-        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f09011a;
-        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f09011b;
-        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f09011c;
-        public static final int Widget_AppCompat_Light_PopupMenu=0x7f09011d;
-        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f09011e;
-        public static final int Widget_AppCompat_Light_SearchView=0x7f09011f;
-        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f090120;
-        public static final int Widget_AppCompat_ListPopupWindow=0x7f090121;
-        public static final int Widget_AppCompat_ListView=0x7f090122;
-        public static final int Widget_AppCompat_ListView_DropDown=0x7f090123;
-        public static final int Widget_AppCompat_ListView_Menu=0x7f090124;
-        public static final int Widget_AppCompat_PopupMenu=0x7f090125;
-        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f090126;
-        public static final int Widget_AppCompat_PopupWindow=0x7f090127;
-        public static final int Widget_AppCompat_ProgressBar=0x7f090128;
-        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f090129;
-        public static final int Widget_AppCompat_RatingBar=0x7f09012a;
-        public static final int Widget_AppCompat_SearchView=0x7f09012b;
-        public static final int Widget_AppCompat_SearchView_ActionBar=0x7f09012c;
-        public static final int Widget_AppCompat_SeekBar=0x7f09012d;
-        public static final int Widget_AppCompat_Spinner=0x7f09012e;
-        public static final int Widget_AppCompat_Spinner_DropDown=0x7f09012f;
-        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f090130;
-        public static final int Widget_AppCompat_Spinner_Underlined=0x7f090131;
-        public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f090132;
-        public static final int Widget_AppCompat_Toolbar=0x7f090133;
-        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f090134;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f0900a8;
+        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f090063;
+        public static final int Base_Widget_AppCompat_EditText=0x7f090019;
+        public static final int Base_Widget_AppCompat_ImageButton=0x7f090064;
+        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0900a9;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0900aa;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0900ab;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f090065;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f090066;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f090067;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f090068;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f090069;
+        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f09006a;
+        public static final int Base_Widget_AppCompat_ListView=0x7f09006b;
+        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f09006c;
+        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f09006d;
+        public static final int Base_Widget_AppCompat_PopupMenu=0x7f09006e;
+        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f09006f;
+        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0900ac;
+        public static final int Base_Widget_AppCompat_ProgressBar=0x7f09000f;
+        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f090010;
+        public static final int Base_Widget_AppCompat_RatingBar=0x7f090070;
+        public static final int Base_Widget_AppCompat_SearchView=0x7f0900ad;
+        public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f0900ae;
+        public static final int Base_Widget_AppCompat_SeekBar=0x7f090071;
+        public static final int Base_Widget_AppCompat_Spinner=0x7f090072;
+        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f090004;
+        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f090073;
+        public static final int Base_Widget_AppCompat_Toolbar=0x7f0900af;
+        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f090074;
+        public static final int Base_Widget_Design_TabLayout=0x7f0900b0;
+        public static final int Platform_AppCompat=0x7f090011;
+        public static final int Platform_AppCompat_Light=0x7f090012;
+        public static final int Platform_ThemeOverlay_AppCompat=0x7f090075;
+        public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f090076;
+        public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f090077;
+        public static final int Platform_V11_AppCompat=0x7f090013;
+        public static final int Platform_V11_AppCompat_Light=0x7f090014;
+        public static final int Platform_V14_AppCompat=0x7f09001b;
+        public static final int Platform_V14_AppCompat_Light=0x7f09001c;
+        public static final int Platform_Widget_AppCompat_Spinner=0x7f090015;
+        public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f090022;
+        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f090023;
+        public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f090024;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f090025;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f090026;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f090027;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f090028;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f090029;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f09002a;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f09002b;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f09002c;
+        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f09002d;
+        public static final int RtlUnderlay_Widget_AppCompat_ActionButton=0x7f09002e;
+        public static final int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow=0x7f09002f;
+        public static final int TextAppearance_AppCompat=0x7f0900b1;
+        public static final int TextAppearance_AppCompat_Body1=0x7f0900b2;
+        public static final int TextAppearance_AppCompat_Body2=0x7f0900b3;
+        public static final int TextAppearance_AppCompat_Button=0x7f0900b4;
+        public static final int TextAppearance_AppCompat_Caption=0x7f0900b5;
+        public static final int TextAppearance_AppCompat_Display1=0x7f0900b6;
+        public static final int TextAppearance_AppCompat_Display2=0x7f0900b7;
+        public static final int TextAppearance_AppCompat_Display3=0x7f0900b8;
+        public static final int TextAppearance_AppCompat_Display4=0x7f0900b9;
+        public static final int TextAppearance_AppCompat_Headline=0x7f0900ba;
+        public static final int TextAppearance_AppCompat_Inverse=0x7f0900bb;
+        public static final int TextAppearance_AppCompat_Large=0x7f0900bc;
+        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0900bd;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0900be;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0900bf;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0900c0;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0900c1;
+        public static final int TextAppearance_AppCompat_Medium=0x7f0900c2;
+        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0900c3;
+        public static final int TextAppearance_AppCompat_Menu=0x7f0900c4;
+        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0900c5;
+        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0900c6;
+        public static final int TextAppearance_AppCompat_Small=0x7f0900c7;
+        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0900c8;
+        public static final int TextAppearance_AppCompat_Subhead=0x7f0900c9;
+        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0900ca;
+        public static final int TextAppearance_AppCompat_Title=0x7f0900cb;
+        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0900cc;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0900cd;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0900ce;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0900cf;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0900d0;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0900d1;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0900d2;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0900d3;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0900d4;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0900d5;
+        public static final int TextAppearance_AppCompat_Widget_Button=0x7f0900d6;
+        public static final int TextAppearance_AppCompat_Widget_Button_Inverse=0x7f0900d7;
+        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0900d8;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0900d9;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0900da;
+        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0900db;
+        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0900dc;
+        public static final int TextAppearance_Design_CollapsingToolbar_Expanded=0x7f0900dd;
+        public static final int TextAppearance_Design_Counter=0x7f0900de;
+        public static final int TextAppearance_Design_Counter_Overflow=0x7f0900df;
+        public static final int TextAppearance_Design_Error=0x7f0900e0;
+        public static final int TextAppearance_Design_Hint=0x7f0900e1;
+        public static final int TextAppearance_Design_Snackbar_Message=0x7f0900e2;
+        public static final int TextAppearance_Design_Tab=0x7f0900e3;
+        public static final int TextAppearance_StatusBar_EventContent=0x7f09001d;
+        public static final int TextAppearance_StatusBar_EventContent_Info=0x7f09001e;
+        public static final int TextAppearance_StatusBar_EventContent_Line2=0x7f09001f;
+        public static final int TextAppearance_StatusBar_EventContent_Time=0x7f090020;
+        public static final int TextAppearance_StatusBar_EventContent_Title=0x7f090021;
+        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0900e4;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0900e5;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0900e6;
+        public static final int Theme_AppCompat=0x7f0900e7;
+        public static final int Theme_AppCompat_CompactMenu=0x7f0900e8;
+        public static final int Theme_AppCompat_Dialog=0x7f0900e9;
+        public static final int Theme_AppCompat_Dialog_Alert=0x7f0900ea;
+        public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0900eb;
+        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0900ec;
+        public static final int Theme_AppCompat_Light=0x7f0900ed;
+        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0900ee;
+        public static final int Theme_AppCompat_Light_Dialog=0x7f0900ef;
+        public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0900f0;
+        public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0900f1;
+        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0900f2;
+        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0900f3;
+        public static final int Theme_AppCompat_NoActionBar=0x7f0900f4;
+        public static final int ThemeOverlay_AppCompat=0x7f0900f5;
+        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0900f6;
+        public static final int ThemeOverlay_AppCompat_Dark=0x7f0900f7;
+        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0900f8;
+        public static final int ThemeOverlay_AppCompat_Light=0x7f0900f9;
+        public static final int Widget_AppCompat_ActionBar=0x7f0900fa;
+        public static final int Widget_AppCompat_ActionBar_Solid=0x7f0900fb;
+        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0900fc;
+        public static final int Widget_AppCompat_ActionBar_TabText=0x7f0900fd;
+        public static final int Widget_AppCompat_ActionBar_TabView=0x7f0900fe;
+        public static final int Widget_AppCompat_ActionButton=0x7f0900ff;
+        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f090100;
+        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f090101;
+        public static final int Widget_AppCompat_ActionMode=0x7f090102;
+        public static final int Widget_AppCompat_ActivityChooserView=0x7f090103;
+        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f090104;
+        public static final int Widget_AppCompat_Button=0x7f090105;
+        public static final int Widget_AppCompat_Button_Borderless=0x7f090106;
+        public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f090107;
+        public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f090108;
+        public static final int Widget_AppCompat_Button_Colored=0x7f090109;
+        public static final int Widget_AppCompat_Button_Small=0x7f09010a;
+        public static final int Widget_AppCompat_ButtonBar=0x7f09010b;
+        public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f09010c;
+        public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f09010d;
+        public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f09010e;
+        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f09010f;
+        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f090110;
+        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f090111;
+        public static final int Widget_AppCompat_EditText=0x7f090112;
+        public static final int Widget_AppCompat_ImageButton=0x7f090113;
+        public static final int Widget_AppCompat_Light_ActionBar=0x7f090114;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f090115;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f090116;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f090117;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f090118;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f090119;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f09011a;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f09011b;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f09011c;
+        public static final int Widget_AppCompat_Light_ActionButton=0x7f09011d;
+        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f09011e;
+        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f09011f;
+        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f090120;
+        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f090121;
+        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f090122;
+        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f090123;
+        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f090124;
+        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f090125;
+        public static final int Widget_AppCompat_Light_PopupMenu=0x7f090126;
+        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f090127;
+        public static final int Widget_AppCompat_Light_SearchView=0x7f090128;
+        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f090129;
+        public static final int Widget_AppCompat_ListPopupWindow=0x7f09012a;
+        public static final int Widget_AppCompat_ListView=0x7f09012b;
+        public static final int Widget_AppCompat_ListView_DropDown=0x7f09012c;
+        public static final int Widget_AppCompat_ListView_Menu=0x7f09012d;
+        public static final int Widget_AppCompat_PopupMenu=0x7f09012e;
+        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f09012f;
+        public static final int Widget_AppCompat_PopupWindow=0x7f090130;
+        public static final int Widget_AppCompat_ProgressBar=0x7f090131;
+        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f090132;
+        public static final int Widget_AppCompat_RatingBar=0x7f090133;
+        public static final int Widget_AppCompat_SearchView=0x7f090134;
+        public static final int Widget_AppCompat_SearchView_ActionBar=0x7f090135;
+        public static final int Widget_AppCompat_SeekBar=0x7f090136;
+        public static final int Widget_AppCompat_Spinner=0x7f090137;
+        public static final int Widget_AppCompat_Spinner_DropDown=0x7f090138;
+        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f090139;
+        public static final int Widget_AppCompat_Spinner_Underlined=0x7f09013a;
+        public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f09013b;
+        public static final int Widget_AppCompat_Toolbar=0x7f09013c;
+        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f09013d;
+        public static final int Widget_Design_AppBarLayout=0x7f09013e;
+        public static final int Widget_Design_CollapsingToolbar=0x7f09013f;
+        public static final int Widget_Design_CoordinatorLayout=0x7f090140;
+        public static final int Widget_Design_FloatingActionButton=0x7f090141;
+        public static final int Widget_Design_NavigationView=0x7f090142;
+        public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f090143;
+        public static final int Widget_Design_Snackbar=0x7f090144;
+        public static final int Widget_Design_TabLayout=0x7f090001;
+        public static final int Widget_Design_TextInputLayout=0x7f090145;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -2123,33 +2788,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.luff.vnexpress_news:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.luff.vnexpress_news:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.luff.vnexpress_news:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.luff.vnexpress_news:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.luff.vnexpress_news:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.luff.vnexpress_news:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.luff.vnexpress_news:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.luff.vnexpress_news:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.luff.vnexpress_news:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.luff.vnexpress_news:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.luff.vnexpress_news:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.luff.vnexpress_news:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.luff.vnexpress_news:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.luff.vnexpress_news:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.luff.vnexpress_news:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.luff.vnexpress_news:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.luff.vnexpress_news:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.luff.vnexpress_news:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.luff.vnexpress_news:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.luff.vnexpress_news:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.luff.vnexpress_news:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.luff.vnexpress_news:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.luff.vnexpress_news:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.luff.vnexpress_news:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.luff.vnexpress_news:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.luff.vnexpress_news:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.luff.vnexpress_news:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background vnexpress.luff.com.read:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit vnexpress.luff.com.read:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked vnexpress.luff.com.read:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd vnexpress.luff.com.read:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft vnexpress.luff.com.read:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight vnexpress.luff.com.read:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart vnexpress.luff.com.read:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout vnexpress.luff.com.read:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions vnexpress.luff.com.read:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider vnexpress.luff.com.read:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation vnexpress.luff.com.read:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height vnexpress.luff.com.read:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll vnexpress.luff.com.read:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator vnexpress.luff.com.read:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout vnexpress.luff.com.read:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon vnexpress.luff.com.read:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle vnexpress.luff.com.read:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding vnexpress.luff.com.read:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo vnexpress.luff.com.read:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode vnexpress.luff.com.read:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme vnexpress.luff.com.read:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding vnexpress.luff.com.read:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle vnexpress.luff.com.read:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle vnexpress.luff.com.read:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle vnexpress.luff.com.read:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title vnexpress.luff.com.read:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle vnexpress.luff.com.read:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2186,20 +2851,20 @@ containing a value of this type.
             0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011,
             0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015,
             0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019,
-            0x7f01001a, 0x7f01001b, 0x7f01007c
+            0x7f01001a, 0x7f01001b, 0x7f0100be
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#background}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:background
+          @attr name vnexpress.luff.com.read:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2207,11 +2872,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.luff.vnexpress_news:backgroundSplit
+          @attr name vnexpress.luff.com.read:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2219,11 +2884,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.luff.vnexpress_news:backgroundStacked
+          @attr name vnexpress.luff.com.read:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2235,11 +2900,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetEnd
+          @attr name vnexpress.luff.com.read:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2251,11 +2916,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetLeft
+          @attr name vnexpress.luff.com.read:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2267,11 +2932,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetRight
+          @attr name vnexpress.luff.com.read:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2283,21 +2948,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetStart
+          @attr name vnexpress.luff.com.read:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:customNavigationLayout
+          @attr name vnexpress.luff.com.read:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2315,21 +2980,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.luff.vnexpress_news:displayOptions
+          @attr name vnexpress.luff.com.read:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#divider}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:divider
+          @attr name vnexpress.luff.com.read:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#elevation}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2341,11 +3006,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:elevation
+          @attr name vnexpress.luff.com.read:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#height}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2357,11 +3022,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:height
+          @attr name vnexpress.luff.com.read:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2371,51 +3036,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:hideOnContentScroll
+          @attr name vnexpress.luff.com.read:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:homeAsUpIndicator
+          @attr name vnexpress.luff.com.read:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:homeLayout
+          @attr name vnexpress.luff.com.read:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#icon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:icon
+          @attr name vnexpress.luff.com.read:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:indeterminateProgressStyle
+          @attr name vnexpress.luff.com.read:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2427,21 +3092,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:itemPadding
+          @attr name vnexpress.luff.com.read:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#logo}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:logo
+          @attr name vnexpress.luff.com.read:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2455,21 +3120,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.luff.vnexpress_news:navigationMode
+          @attr name vnexpress.luff.com.read:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:popupTheme
+          @attr name vnexpress.luff.com.read:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2481,21 +3146,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:progressBarPadding
+          @attr name vnexpress.luff.com.read:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:progressBarStyle
+          @attr name vnexpress.luff.com.read:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2505,21 +3170,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:subtitle
+          @attr name vnexpress.luff.com.read:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:subtitleTextStyle
+          @attr name vnexpress.luff.com.read:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#title}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2529,17 +3194,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:title
+          @attr name vnexpress.luff.com.read:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:titleTextStyle
+          @attr name vnexpress.luff.com.read:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2591,12 +3256,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.luff.vnexpress_news:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.luff.vnexpress_news:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.luff.vnexpress_news:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.luff.vnexpress_news:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.luff.vnexpress_news:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.luff.vnexpress_news:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background vnexpress.luff.com.read:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit vnexpress.luff.com.read:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout vnexpress.luff.com.read:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height vnexpress.luff.com.read:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle vnexpress.luff.com.read:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle vnexpress.luff.com.read:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2610,17 +3275,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#background}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:background
+          @attr name vnexpress.luff.com.read:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2628,21 +3293,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.luff.vnexpress_news:backgroundSplit
+          @attr name vnexpress.luff.com.read:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:closeItemLayout
+          @attr name vnexpress.luff.com.read:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#height}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2654,27 +3319,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:height
+          @attr name vnexpress.luff.com.read:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:subtitleTextStyle
+          @attr name vnexpress.luff.com.read:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:titleTextStyle
+          @attr name vnexpress.luff.com.read:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2683,8 +3348,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.luff.vnexpress_news:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.luff.vnexpress_news:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable vnexpress.luff.com.read:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount vnexpress.luff.com.read:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2693,17 +3358,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:expandActivityOverflowButtonDrawable
+          @attr name vnexpress.luff.com.read:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2713,7 +3378,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:initialActivityCount
+          @attr name vnexpress.luff.com.read:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2723,11 +3388,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.luff.vnexpress_news:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.luff.vnexpress_news:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.luff.vnexpress_news:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.luff.vnexpress_news:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.luff.vnexpress_news:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout vnexpress.luff.com.read:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout vnexpress.luff.com.read:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout vnexpress.luff.com.read:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout vnexpress.luff.com.read:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout vnexpress.luff.com.read:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2747,55 +3412,153 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonPanelSideLayout
+          @attr name vnexpress.luff.com.read:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:listItemLayout
+          @attr name vnexpress.luff.com.read:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:listLayout
+          @attr name vnexpress.luff.com.read:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:multiChoiceItemLayout
+          @attr name vnexpress.luff.com.read:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:singleChoiceItemLayout
+          @attr name vnexpress.luff.com.read:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
+        /** Attributes that can be used with a AppBarLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation vnexpress.luff.com.read:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded vnexpress.luff.com.read:expanded}</code></td><td></td></tr>
+           </table>
+           @see #AppBarLayout_android_background
+           @see #AppBarLayout_elevation
+           @see #AppBarLayout_expanded
+         */
+        public static final int[] AppBarLayout = {
+            0x010100d4, 0x7f01001a, 0x7f010024
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#background}
+          attribute's value can be found in the {@link #AppBarLayout} array.
+          @attr name android:background
+        */
+        public static final int AppBarLayout_android_background = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#elevation}
+          attribute's value can be found in the {@link #AppBarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:elevation
+        */
+        public static final int AppBarLayout_elevation = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expanded}
+          attribute's value can be found in the {@link #AppBarLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:expanded
+        */
+        public static final int AppBarLayout_expanded = 2;
+        /** Attributes that can be used with a AppBarLayout_LayoutParams.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags vnexpress.luff.com.read:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator vnexpress.luff.com.read:layout_scrollInterpolator}</code></td><td></td></tr>
+           </table>
+           @see #AppBarLayout_LayoutParams_layout_scrollFlags
+           @see #AppBarLayout_LayoutParams_layout_scrollInterpolator
+         */
+        public static final int[] AppBarLayout_LayoutParams = {
+            0x7f010025, 0x7f010026
+        };
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_scrollFlags}
+          attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scroll</code></td><td>0x1</td><td></td></tr>
+<tr><td><code>exitUntilCollapsed</code></td><td>0x2</td><td></td></tr>
+<tr><td><code>enterAlways</code></td><td>0x4</td><td></td></tr>
+<tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
+<tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:layout_scrollFlags
+        */
+        public static final int AppBarLayout_LayoutParams_layout_scrollFlags = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_scrollInterpolator}
+          attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:layout_scrollInterpolator
+        */
+        public static final int AppBarLayout_LayoutParams_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatTextView.
            <p>Includes the following attributes:</p>
            <table>
@@ -2803,13 +3566,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.luff.vnexpress_news:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps vnexpress.luff.com.read:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
          */
         public static final int[] AppCompatTextView = {
-            0x01010034, 0x7f010024
+            0x01010034, 0x7f010027
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
@@ -2818,14 +3581,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.luff.vnexpress_news:textAllCaps
+          @attr name vnexpress.luff.com.read:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -2834,15 +3597,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.luff.vnexpress_news:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking vnexpress.luff.com.read:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
         public static final int[] ButtonBarLayout = {
-            0x7f010025
+            0x7f010028
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -2852,9 +3615,316 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:allowStacking
+          @attr name vnexpress.luff.com.read:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
+        /** Attributes that can be used with a CollapsingAppBarLayout_LayoutParams.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode vnexpress.luff.com.read:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier vnexpress.luff.com.read:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           </table>
+           @see #CollapsingAppBarLayout_LayoutParams_layout_collapseMode
+           @see #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
+         */
+        public static final int[] CollapsingAppBarLayout_LayoutParams = {
+            0x7f010029, 0x7f01002a
+        };
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_collapseMode}
+          attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>pin</code></td><td>1</td><td></td></tr>
+<tr><td><code>parallax</code></td><td>2</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:layout_collapseMode
+        */
+        public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_collapseParallaxMultiplier}
+          attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:layout_collapseParallaxMultiplier
+        */
+        public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = 1;
+        /** Attributes that can be used with a CollapsingToolbarLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity vnexpress.luff.com.read:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance vnexpress.luff.com.read:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim vnexpress.luff.com.read:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity vnexpress.luff.com.read:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin vnexpress.luff.com.read:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom vnexpress.luff.com.read:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd vnexpress.luff.com.read:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart vnexpress.luff.com.read:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop vnexpress.luff.com.read:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance vnexpress.luff.com.read:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim vnexpress.luff.com.read:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title vnexpress.luff.com.read:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled vnexpress.luff.com.read:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId vnexpress.luff.com.read:toolbarId}</code></td><td></td></tr>
+           </table>
+           @see #CollapsingToolbarLayout_collapsedTitleGravity
+           @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
+           @see #CollapsingToolbarLayout_contentScrim
+           @see #CollapsingToolbarLayout_expandedTitleGravity
+           @see #CollapsingToolbarLayout_expandedTitleMargin
+           @see #CollapsingToolbarLayout_expandedTitleMarginBottom
+           @see #CollapsingToolbarLayout_expandedTitleMarginEnd
+           @see #CollapsingToolbarLayout_expandedTitleMarginStart
+           @see #CollapsingToolbarLayout_expandedTitleMarginTop
+           @see #CollapsingToolbarLayout_expandedTitleTextAppearance
+           @see #CollapsingToolbarLayout_statusBarScrim
+           @see #CollapsingToolbarLayout_title
+           @see #CollapsingToolbarLayout_titleEnabled
+           @see #CollapsingToolbarLayout_toolbarId
+         */
+        public static final int[] CollapsingToolbarLayout = {
+            0x7f010003, 0x7f01002b, 0x7f01002c, 0x7f01002d,
+            0x7f01002e, 0x7f01002f, 0x7f010030, 0x7f010031,
+            0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035,
+            0x7f010036, 0x7f010037
+        };
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#collapsedTitleGravity}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:collapsedTitleGravity
+        */
+        public static final int CollapsingToolbarLayout_collapsedTitleGravity = 11;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#collapsedTitleTextAppearance}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:collapsedTitleTextAppearance
+        */
+        public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentScrim}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:contentScrim
+        */
+        public static final int CollapsingToolbarLayout_contentScrim = 8;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandedTitleGravity}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:expandedTitleGravity
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleGravity = 12;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandedTitleMargin}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:expandedTitleMargin
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandedTitleMarginBottom}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:expandedTitleMarginBottom
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandedTitleMarginEnd}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:expandedTitleMarginEnd
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandedTitleMarginStart}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:expandedTitleMarginStart
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandedTitleMarginTop}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:expandedTitleMarginTop
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#expandedTitleTextAppearance}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:expandedTitleTextAppearance
+        */
+        public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#statusBarScrim}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:statusBarScrim
+        */
+        public static final int CollapsingToolbarLayout_statusBarScrim = 9;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#title}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:title
+        */
+        public static final int CollapsingToolbarLayout_title = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleEnabled}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:titleEnabled
+        */
+        public static final int CollapsingToolbarLayout_titleEnabled = 13;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#toolbarId}
+          attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:toolbarId
+        */
+        public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CompoundButton.
            <p>Includes the following attributes:</p>
            <table>
@@ -2862,15 +3932,15 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.luff.vnexpress_news:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.luff.vnexpress_news:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint vnexpress.luff.com.read:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode vnexpress.luff.com.read:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
            @see #CompoundButton_buttonTintMode
          */
         public static final int[] CompoundButton = {
-            0x01010107, 0x7f010026, 0x7f010027
+            0x01010107, 0x7f010038, 0x7f010039
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#button}
@@ -2879,7 +3949,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -2890,11 +3960,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:buttonTint
+          @attr name vnexpress.luff.com.read:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -2910,23 +3980,153 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.luff.vnexpress_news:buttonTintMode
+          @attr name vnexpress.luff.com.read:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
+        /** Attributes that can be used with a CoordinatorLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines vnexpress.luff.com.read:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground vnexpress.luff.com.read:statusBarBackground}</code></td><td></td></tr>
+           </table>
+           @see #CoordinatorLayout_keylines
+           @see #CoordinatorLayout_statusBarBackground
+         */
+        public static final int[] CoordinatorLayout = {
+            0x7f01003a, 0x7f01003b
+        };
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#keylines}
+          attribute's value can be found in the {@link #CoordinatorLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:keylines
+        */
+        public static final int CoordinatorLayout_keylines = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#statusBarBackground}
+          attribute's value can be found in the {@link #CoordinatorLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:statusBarBackground
+        */
+        public static final int CoordinatorLayout_statusBarBackground = 1;
+        /** Attributes that can be used with a CoordinatorLayout_LayoutParams.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor vnexpress.luff.com.read:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity vnexpress.luff.com.read:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior vnexpress.luff.com.read:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline vnexpress.luff.com.read:layout_keyline}</code></td><td></td></tr>
+           </table>
+           @see #CoordinatorLayout_LayoutParams_android_layout_gravity
+           @see #CoordinatorLayout_LayoutParams_layout_anchor
+           @see #CoordinatorLayout_LayoutParams_layout_anchorGravity
+           @see #CoordinatorLayout_LayoutParams_layout_behavior
+           @see #CoordinatorLayout_LayoutParams_layout_keyline
+         */
+        public static final int[] CoordinatorLayout_LayoutParams = {
+            0x010100b3, 0x7f01003c, 0x7f01003d, 0x7f01003e,
+            0x7f01003f
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
+          attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
+          @attr name android:layout_gravity
+        */
+        public static final int CoordinatorLayout_LayoutParams_android_layout_gravity = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_anchor}
+          attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:layout_anchor
+        */
+        public static final int CoordinatorLayout_LayoutParams_layout_anchor = 2;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_anchorGravity}
+          attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
+
+
+          <p>Must be one or more (separated by '|') of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x30</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
+<tr><td><code>left</code></td><td>0x03</td><td></td></tr>
+<tr><td><code>right</code></td><td>0x05</td><td></td></tr>
+<tr><td><code>center_vertical</code></td><td>0x10</td><td></td></tr>
+<tr><td><code>fill_vertical</code></td><td>0x70</td><td></td></tr>
+<tr><td><code>center_horizontal</code></td><td>0x01</td><td></td></tr>
+<tr><td><code>fill_horizontal</code></td><td>0x07</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x11</td><td></td></tr>
+<tr><td><code>fill</code></td><td>0x77</td><td></td></tr>
+<tr><td><code>clip_vertical</code></td><td>0x80</td><td></td></tr>
+<tr><td><code>clip_horizontal</code></td><td>0x08</td><td></td></tr>
+<tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:layout_anchorGravity
+        */
+        public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity = 4;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_behavior}
+          attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:layout_behavior
+        */
+        public static final int CoordinatorLayout_LayoutParams_layout_behavior = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout_keyline}
+          attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:layout_keyline
+        */
+        public static final int CoordinatorLayout_LayoutParams_layout_keyline = 3;
         /** Attributes that can be used with a DrawerArrowToggle.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.luff.vnexpress_news:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.luff.vnexpress_news:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.luff.vnexpress_news:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.luff.vnexpress_news:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.luff.vnexpress_news:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.luff.vnexpress_news:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.luff.vnexpress_news:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.luff.vnexpress_news:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength vnexpress.luff.com.read:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength vnexpress.luff.com.read:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength vnexpress.luff.com.read:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color vnexpress.luff.com.read:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize vnexpress.luff.com.read:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars vnexpress.luff.com.read:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars vnexpress.luff.com.read:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness vnexpress.luff.com.read:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -2938,11 +4138,11 @@ containing a value of this type.
            @see #DrawerArrowToggle_thickness
          */
         public static final int[] DrawerArrowToggle = {
-            0x7f010028, 0x7f010029, 0x7f01002a, 0x7f01002b,
-            0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f
+            0x7f010040, 0x7f010041, 0x7f010042, 0x7f010043,
+            0x7f010044, 0x7f010045, 0x7f010046, 0x7f010047
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2954,11 +4154,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:arrowHeadLength
+          @attr name vnexpress.luff.com.read:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2970,11 +4170,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:arrowShaftLength
+          @attr name vnexpress.luff.com.read:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#barLength}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2986,11 +4186,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:barLength
+          @attr name vnexpress.luff.com.read:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#color}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3001,11 +4201,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:color
+          @attr name vnexpress.luff.com.read:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3017,11 +4217,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:drawableSize
+          @attr name vnexpress.luff.com.read:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3033,11 +4233,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:gapBetweenBars
+          @attr name vnexpress.luff.com.read:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3047,11 +4247,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:spinBars
+          @attr name vnexpress.luff.com.read:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#thickness}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3063,9 +4263,201 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:thickness
+          @attr name vnexpress.luff.com.read:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
+        /** Attributes that can be used with a FloatingActionButton.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #FloatingActionButton_android_background android:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint vnexpress.luff.com.read:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode vnexpress.luff.com.read:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth vnexpress.luff.com.read:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation vnexpress.luff.com.read:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize vnexpress.luff.com.read:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ vnexpress.luff.com.read:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor vnexpress.luff.com.read:rippleColor}</code></td><td></td></tr>
+           </table>
+           @see #FloatingActionButton_android_background
+           @see #FloatingActionButton_backgroundTint
+           @see #FloatingActionButton_backgroundTintMode
+           @see #FloatingActionButton_borderWidth
+           @see #FloatingActionButton_elevation
+           @see #FloatingActionButton_fabSize
+           @see #FloatingActionButton_pressedTranslationZ
+           @see #FloatingActionButton_rippleColor
+         */
+        public static final int[] FloatingActionButton = {
+            0x010100d4, 0x7f01001a, 0x7f010048, 0x7f010049,
+            0x7f01004a, 0x7f01004b, 0x7f01010e, 0x7f01010f
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#background}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+          @attr name android:background
+        */
+        public static final int FloatingActionButton_android_background = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#backgroundTint}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:backgroundTint
+        */
+        public static final int FloatingActionButton_backgroundTint = 6;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#backgroundTintMode}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:backgroundTintMode
+        */
+        public static final int FloatingActionButton_backgroundTintMode = 7;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#borderWidth}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:borderWidth
+        */
+        public static final int FloatingActionButton_borderWidth = 5;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#elevation}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:elevation
+        */
+        public static final int FloatingActionButton_elevation = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#fabSize}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>mini</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:fabSize
+        */
+        public static final int FloatingActionButton_fabSize = 3;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#pressedTranslationZ}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:pressedTranslationZ
+        */
+        public static final int FloatingActionButton_pressedTranslationZ = 4;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#rippleColor}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:rippleColor
+        */
+        public static final int FloatingActionButton_rippleColor = 2;
+        /** Attributes that can be used with a ForegroundLinearLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding vnexpress.luff.com.read:foregroundInsidePadding}</code></td><td></td></tr>
+           </table>
+           @see #ForegroundLinearLayout_android_foreground
+           @see #ForegroundLinearLayout_android_foregroundGravity
+           @see #ForegroundLinearLayout_foregroundInsidePadding
+         */
+        public static final int[] ForegroundLinearLayout = {
+            0x01010109, 0x01010200, 0x7f01004c
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#foreground}
+          attribute's value can be found in the {@link #ForegroundLinearLayout} array.
+          @attr name android:foreground
+        */
+        public static final int ForegroundLinearLayout_android_foreground = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#foregroundGravity}
+          attribute's value can be found in the {@link #ForegroundLinearLayout} array.
+          @attr name android:foregroundGravity
+        */
+        public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#foregroundInsidePadding}
+          attribute's value can be found in the {@link #ForegroundLinearLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:foregroundInsidePadding
+        */
+        public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -3077,10 +4469,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.luff.vnexpress_news:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.luff.vnexpress_news:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.luff.vnexpress_news:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.luff.vnexpress_news:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider vnexpress.luff.com.read:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding vnexpress.luff.com.read:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild vnexpress.luff.com.read:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers vnexpress.luff.com.read:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3094,8 +4486,8 @@ containing a value of this type.
          */
         public static final int[] LinearLayoutCompat = {
             0x010100af, 0x010100c4, 0x01010126, 0x01010127,
-            0x01010128, 0x7f01000b, 0x7f010030, 0x7f010031,
-            0x7f010032
+            0x01010128, 0x7f01000b, 0x7f01004d, 0x7f01004e,
+            0x7f01004f
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
@@ -3128,17 +4520,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#divider}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:divider
+          @attr name vnexpress.luff.com.read:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3150,11 +4542,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:dividerPadding
+          @attr name vnexpress.luff.com.read:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3164,11 +4556,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:measureWithLargestChild
+          @attr name vnexpress.luff.com.read:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3183,7 +4575,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.luff.vnexpress_news:showDividers
+          @attr name vnexpress.luff.com.read:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3322,9 +4714,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.luff.vnexpress_news:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.luff.vnexpress_news:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.luff.vnexpress_news:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout vnexpress.luff.com.read:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass vnexpress.luff.com.read:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass vnexpress.luff.com.read:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -3338,7 +4730,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.luff.vnexpress_news:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction vnexpress.luff.com.read:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -3362,21 +4754,21 @@ containing a value of this type.
             0x01010002, 0x0101000e, 0x010100d0, 0x01010106,
             0x01010194, 0x010101de, 0x010101df, 0x010101e1,
             0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5,
-            0x0101026f, 0x7f010033, 0x7f010034, 0x7f010035,
-            0x7f010036
+            0x0101026f, 0x7f010050, 0x7f010051, 0x7f010052,
+            0x7f010053
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionLayout
+          @attr name vnexpress.luff.com.read:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3386,11 +4778,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:actionProviderClass
+          @attr name vnexpress.luff.com.read:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3400,7 +4792,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:actionViewClass
+          @attr name vnexpress.luff.com.read:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -3482,7 +4874,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3498,7 +4890,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.luff.vnexpress_news:showAsAction
+          @attr name vnexpress.luff.com.read:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -3514,7 +4906,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.luff.vnexpress_news:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing vnexpress.luff.com.read:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -3527,7 +4919,7 @@ containing a value of this type.
          */
         public static final int[] MenuView = {
             0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-            0x0101012f, 0x01010130, 0x01010131, 0x7f010037
+            0x0101012f, 0x01010130, 0x01010131, 0x7f010054
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
@@ -3572,7 +4964,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -3582,9 +4974,146 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:preserveIconSpacing
+          @attr name vnexpress.luff.com.read:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
+        /** Attributes that can be used with a NavigationView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation vnexpress.luff.com.read:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout vnexpress.luff.com.read:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground vnexpress.luff.com.read:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint vnexpress.luff.com.read:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance vnexpress.luff.com.read:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor vnexpress.luff.com.read:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu vnexpress.luff.com.read:menu}</code></td><td></td></tr>
+           </table>
+           @see #NavigationView_android_background
+           @see #NavigationView_android_fitsSystemWindows
+           @see #NavigationView_android_maxWidth
+           @see #NavigationView_elevation
+           @see #NavigationView_headerLayout
+           @see #NavigationView_itemBackground
+           @see #NavigationView_itemIconTint
+           @see #NavigationView_itemTextAppearance
+           @see #NavigationView_itemTextColor
+           @see #NavigationView_menu
+         */
+        public static final int[] NavigationView = {
+            0x010100d4, 0x010100dd, 0x0101011f, 0x7f01001a,
+            0x7f010055, 0x7f010056, 0x7f010057, 0x7f010058,
+            0x7f010059, 0x7f01005a
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#background}
+          attribute's value can be found in the {@link #NavigationView} array.
+          @attr name android:background
+        */
+        public static final int NavigationView_android_background = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#fitsSystemWindows}
+          attribute's value can be found in the {@link #NavigationView} array.
+          @attr name android:fitsSystemWindows
+        */
+        public static final int NavigationView_android_fitsSystemWindows = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+          attribute's value can be found in the {@link #NavigationView} array.
+          @attr name android:maxWidth
+        */
+        public static final int NavigationView_android_maxWidth = 2;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#elevation}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:elevation
+        */
+        public static final int NavigationView_elevation = 3;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#headerLayout}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:headerLayout
+        */
+        public static final int NavigationView_headerLayout = 9;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#itemBackground}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:itemBackground
+        */
+        public static final int NavigationView_itemBackground = 7;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#itemIconTint}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:itemIconTint
+        */
+        public static final int NavigationView_itemIconTint = 5;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#itemTextAppearance}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:itemTextAppearance
+        */
+        public static final int NavigationView_itemTextAppearance = 8;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#itemTextColor}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:itemTextColor
+        */
+        public static final int NavigationView_itemTextColor = 6;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#menu}
+          attribute's value can be found in the {@link #NavigationView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:menu
+        */
+        public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
            <p>Includes the following attributes:</p>
            <table>
@@ -3592,13 +5121,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.luff.vnexpress_news:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor vnexpress.luff.com.read:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
          */
         public static final int[] PopupWindow = {
-            0x01010176, 0x7f010038
+            0x01010176, 0x7f01005b
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
@@ -3607,7 +5136,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -3617,7 +5146,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:overlapAnchor
+          @attr name vnexpress.luff.com.read:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -3626,15 +5155,15 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.luff.vnexpress_news:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor vnexpress.luff.com.read:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
         public static final int[] PopupWindowBackgroundState = {
-            0x7f010039
+            0x7f01005c
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3644,9 +5173,147 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:state_above_anchor
+          @attr name vnexpress.luff.com.read:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
+        /** Attributes that can be used with a RecyclerView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager vnexpress.luff.com.read:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout vnexpress.luff.com.read:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount vnexpress.luff.com.read:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd vnexpress.luff.com.read:stackFromEnd}</code></td><td></td></tr>
+           </table>
+           @see #RecyclerView_android_orientation
+           @see #RecyclerView_layoutManager
+           @see #RecyclerView_reverseLayout
+           @see #RecyclerView_spanCount
+           @see #RecyclerView_stackFromEnd
+         */
+        public static final int[] RecyclerView = {
+            0x010100c4, 0x7f01005d, 0x7f01005e, 0x7f01005f,
+            0x7f010060
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#orientation}
+          attribute's value can be found in the {@link #RecyclerView} array.
+          @attr name android:orientation
+        */
+        public static final int RecyclerView_android_orientation = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layoutManager}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:layoutManager
+        */
+        public static final int RecyclerView_layoutManager = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#reverseLayout}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:reverseLayout
+        */
+        public static final int RecyclerView_reverseLayout = 3;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#spanCount}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:spanCount
+        */
+        public static final int RecyclerView_spanCount = 2;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#stackFromEnd}
+          attribute's value can be found in the {@link #RecyclerView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:stackFromEnd
+        */
+        public static final int RecyclerView_stackFromEnd = 4;
+        /** Attributes that can be used with a ScrimInsetsFrameLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground vnexpress.luff.com.read:insetForeground}</code></td><td></td></tr>
+           </table>
+           @see #ScrimInsetsFrameLayout_insetForeground
+         */
+        public static final int[] ScrimInsetsFrameLayout = {
+            0x7f010061
+        };
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#insetForeground}
+          attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name vnexpress.luff.com.read:insetForeground
+        */
+        public static final int ScrimInsetsFrameLayout_insetForeground = 0;
+        /** Attributes that can be used with a ScrollingViewBehavior_Params.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop vnexpress.luff.com.read:behavior_overlapTop}</code></td><td></td></tr>
+           </table>
+           @see #ScrollingViewBehavior_Params_behavior_overlapTop
+         */
+        public static final int[] ScrollingViewBehavior_Params = {
+            0x7f010062
+        };
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#behavior_overlapTop}
+          attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:behavior_overlapTop
+        */
+        public static final int ScrollingViewBehavior_Params_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
            <p>Includes the following attributes:</p>
            <table>
@@ -3657,19 +5324,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.luff.vnexpress_news:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.luff.vnexpress_news:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.luff.vnexpress_news:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.luff.vnexpress_news:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.luff.vnexpress_news:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.luff.vnexpress_news:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.luff.vnexpress_news:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.luff.vnexpress_news:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.luff.vnexpress_news:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.luff.vnexpress_news:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.luff.vnexpress_news:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.luff.vnexpress_news:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.luff.vnexpress_news:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon vnexpress.luff.com.read:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon vnexpress.luff.com.read:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint vnexpress.luff.com.read:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon vnexpress.luff.com.read:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault vnexpress.luff.com.read:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout vnexpress.luff.com.read:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground vnexpress.luff.com.read:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint vnexpress.luff.com.read:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon vnexpress.luff.com.read:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon vnexpress.luff.com.read:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground vnexpress.luff.com.read:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout vnexpress.luff.com.read:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon vnexpress.luff.com.read:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -3691,10 +5358,10 @@ containing a value of this type.
          */
         public static final int[] SearchView = {
             0x010100da, 0x0101011f, 0x01010220, 0x01010264,
-            0x7f01003a, 0x7f01003b, 0x7f01003c, 0x7f01003d,
-            0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041,
-            0x7f010042, 0x7f010043, 0x7f010044, 0x7f010045,
-            0x7f010046
+            0x7f010063, 0x7f010064, 0x7f010065, 0x7f010066,
+            0x7f010067, 0x7f010068, 0x7f010069, 0x7f01006a,
+            0x7f01006b, 0x7f01006c, 0x7f01006d, 0x7f01006e,
+            0x7f01006f
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -3721,27 +5388,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:closeIcon
+          @attr name vnexpress.luff.com.read:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:commitIcon
+          @attr name vnexpress.luff.com.read:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3751,21 +5418,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:defaultQueryHint
+          @attr name vnexpress.luff.com.read:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:goIcon
+          @attr name vnexpress.luff.com.read:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3775,31 +5442,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:iconifiedByDefault
+          @attr name vnexpress.luff.com.read:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#layout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:layout
+          @attr name vnexpress.luff.com.read:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:queryBackground
+          @attr name vnexpress.luff.com.read:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3809,59 +5476,114 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:queryHint
+          @attr name vnexpress.luff.com.read:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:searchHintIcon
+          @attr name vnexpress.luff.com.read:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:searchIcon
+          @attr name vnexpress.luff.com.read:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:submitBackground
+          @attr name vnexpress.luff.com.read:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:suggestionRowLayout
+          @attr name vnexpress.luff.com.read:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:voiceIcon
+          @attr name vnexpress.luff.com.read:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
+        /** Attributes that can be used with a SnackbarLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation vnexpress.luff.com.read:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth vnexpress.luff.com.read:maxActionInlineWidth}</code></td><td></td></tr>
+           </table>
+           @see #SnackbarLayout_android_maxWidth
+           @see #SnackbarLayout_elevation
+           @see #SnackbarLayout_maxActionInlineWidth
+         */
+        public static final int[] SnackbarLayout = {
+            0x0101011f, 0x7f01001a, 0x7f010070
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+          attribute's value can be found in the {@link #SnackbarLayout} array.
+          @attr name android:maxWidth
+        */
+        public static final int SnackbarLayout_android_maxWidth = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#elevation}
+          attribute's value can be found in the {@link #SnackbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:elevation
+        */
+        public static final int SnackbarLayout_elevation = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#maxActionInlineWidth}
+          attribute's value can be found in the {@link #SnackbarLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:maxActionInlineWidth
+        */
+        public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
            <p>Includes the following attributes:</p>
            <table>
@@ -3871,7 +5593,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.luff.vnexpress_news:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme vnexpress.luff.com.read:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -3900,13 +5622,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:popupTheme
+          @attr name vnexpress.luff.com.read:popupTheme
         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -3918,13 +5640,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.luff.vnexpress_news:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.luff.vnexpress_news:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.luff.vnexpress_news:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.luff.vnexpress_news:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.luff.vnexpress_news:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.luff.vnexpress_news:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.luff.vnexpress_news:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText vnexpress.luff.com.read:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack vnexpress.luff.com.read:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth vnexpress.luff.com.read:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding vnexpress.luff.com.read:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance vnexpress.luff.com.read:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding vnexpress.luff.com.read:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track vnexpress.luff.com.read:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -3938,9 +5660,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #SwitchCompat_track
          */
         public static final int[] SwitchCompat = {
-            0x01010124, 0x01010125, 0x01010142, 0x7f010047,
-            0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b,
-            0x7f01004c, 0x7f01004d
+            0x01010124, 0x01010125, 0x01010142, 0x7f010071,
+            0x7f010072, 0x7f010073, 0x7f010074, 0x7f010075,
+            0x7f010076, 0x7f010077
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textOff}
@@ -3961,7 +5683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#showText}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3971,11 +5693,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:showText
+          @attr name vnexpress.luff.com.read:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3985,11 +5707,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:splitTrack
+          @attr name vnexpress.luff.com.read:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4001,11 +5723,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:switchMinWidth
+          @attr name vnexpress.luff.com.read:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4017,21 +5739,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:switchPadding
+          @attr name vnexpress.luff.com.read:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:switchTextAppearance
+          @attr name vnexpress.luff.com.read:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4043,19 +5765,308 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:thumbTextPadding
+          @attr name vnexpress.luff.com.read:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#track}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:track
+          @attr name vnexpress.luff.com.read:track
         */
         public static final int SwitchCompat_track = 3;
+        /** Attributes that can be used with a TabLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground vnexpress.luff.com.read:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart vnexpress.luff.com.read:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity vnexpress.luff.com.read:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor vnexpress.luff.com.read:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight vnexpress.luff.com.read:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth vnexpress.luff.com.read:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth vnexpress.luff.com.read:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode vnexpress.luff.com.read:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding vnexpress.luff.com.read:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom vnexpress.luff.com.read:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd vnexpress.luff.com.read:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart vnexpress.luff.com.read:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop vnexpress.luff.com.read:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor vnexpress.luff.com.read:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance vnexpress.luff.com.read:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor vnexpress.luff.com.read:tabTextColor}</code></td><td></td></tr>
+           </table>
+           @see #TabLayout_tabBackground
+           @see #TabLayout_tabContentStart
+           @see #TabLayout_tabGravity
+           @see #TabLayout_tabIndicatorColor
+           @see #TabLayout_tabIndicatorHeight
+           @see #TabLayout_tabMaxWidth
+           @see #TabLayout_tabMinWidth
+           @see #TabLayout_tabMode
+           @see #TabLayout_tabPadding
+           @see #TabLayout_tabPaddingBottom
+           @see #TabLayout_tabPaddingEnd
+           @see #TabLayout_tabPaddingStart
+           @see #TabLayout_tabPaddingTop
+           @see #TabLayout_tabSelectedTextColor
+           @see #TabLayout_tabTextAppearance
+           @see #TabLayout_tabTextColor
+         */
+        public static final int[] TabLayout = {
+            0x7f010078, 0x7f010079, 0x7f01007a, 0x7f01007b,
+            0x7f01007c, 0x7f01007d, 0x7f01007e, 0x7f01007f,
+            0x7f010080, 0x7f010081, 0x7f010082, 0x7f010083,
+            0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087
+        };
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabBackground}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:tabBackground
+        */
+        public static final int TabLayout_tabBackground = 3;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabContentStart}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabContentStart
+        */
+        public static final int TabLayout_tabContentStart = 2;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabGravity}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>fill</code></td><td>0</td><td></td></tr>
+<tr><td><code>center</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:tabGravity
+        */
+        public static final int TabLayout_tabGravity = 5;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabIndicatorColor}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabIndicatorColor
+        */
+        public static final int TabLayout_tabIndicatorColor = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabIndicatorHeight}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabIndicatorHeight
+        */
+        public static final int TabLayout_tabIndicatorHeight = 1;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabMaxWidth}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabMaxWidth
+        */
+        public static final int TabLayout_tabMaxWidth = 7;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabMinWidth}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabMinWidth
+        */
+        public static final int TabLayout_tabMinWidth = 6;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabMode}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
+<tr><td><code>fixed</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name vnexpress.luff.com.read:tabMode
+        */
+        public static final int TabLayout_tabMode = 4;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabPadding}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabPadding
+        */
+        public static final int TabLayout_tabPadding = 15;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabPaddingBottom}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabPaddingBottom
+        */
+        public static final int TabLayout_tabPaddingBottom = 14;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabPaddingEnd}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabPaddingEnd
+        */
+        public static final int TabLayout_tabPaddingEnd = 13;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabPaddingStart}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabPaddingStart
+        */
+        public static final int TabLayout_tabPaddingStart = 11;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabPaddingTop}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabPaddingTop
+        */
+        public static final int TabLayout_tabPaddingTop = 12;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabSelectedTextColor}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabSelectedTextColor
+        */
+        public static final int TabLayout_tabSelectedTextColor = 10;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabTextAppearance}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:tabTextAppearance
+        */
+        public static final int TabLayout_tabTextAppearance = 8;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#tabTextColor}
+          attribute's value can be found in the {@link #TabLayout} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:tabTextColor
+        */
+        public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
            <p>Includes the following attributes:</p>
            <table>
@@ -4070,7 +6081,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.luff.vnexpress_news:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps vnexpress.luff.com.read:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -4085,7 +6096,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int[] TextAppearance = {
             0x01010095, 0x01010096, 0x01010097, 0x01010098,
             0x01010161, 0x01010162, 0x01010163, 0x01010164,
-            0x7f010024
+            0x7f010027
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#shadowColor}
@@ -4136,132 +6147,273 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.luff.vnexpress_news:textAllCaps
+          @attr name vnexpress.luff.com.read:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
+        /** Attributes that can be used with a TextInputLayout.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled vnexpress.luff.com.read:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength vnexpress.luff.com.read:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance vnexpress.luff.com.read:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance vnexpress.luff.com.read:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled vnexpress.luff.com.read:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance vnexpress.luff.com.read:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled vnexpress.luff.com.read:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance vnexpress.luff.com.read:hintTextAppearance}</code></td><td></td></tr>
+           </table>
+           @see #TextInputLayout_android_hint
+           @see #TextInputLayout_android_textColorHint
+           @see #TextInputLayout_counterEnabled
+           @see #TextInputLayout_counterMaxLength
+           @see #TextInputLayout_counterOverflowTextAppearance
+           @see #TextInputLayout_counterTextAppearance
+           @see #TextInputLayout_errorEnabled
+           @see #TextInputLayout_errorTextAppearance
+           @see #TextInputLayout_hintAnimationEnabled
+           @see #TextInputLayout_hintTextAppearance
+         */
+        public static final int[] TextInputLayout = {
+            0x0101009a, 0x01010150, 0x7f010088, 0x7f010089,
+            0x7f01008a, 0x7f01008b, 0x7f01008c, 0x7f01008d,
+            0x7f01008e, 0x7f01008f
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#hint}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+          @attr name android:hint
+        */
+        public static final int TextInputLayout_android_hint = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#textColorHint}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+          @attr name android:textColorHint
+        */
+        public static final int TextInputLayout_android_textColorHint = 0;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#counterEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:counterEnabled
+        */
+        public static final int TextInputLayout_counterEnabled = 5;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#counterMaxLength}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:counterMaxLength
+        */
+        public static final int TextInputLayout_counterMaxLength = 6;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#counterOverflowTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:counterOverflowTextAppearance
+        */
+        public static final int TextInputLayout_counterOverflowTextAppearance = 8;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#counterTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:counterTextAppearance
+        */
+        public static final int TextInputLayout_counterTextAppearance = 7;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#errorEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:errorEnabled
+        */
+        public static final int TextInputLayout_errorEnabled = 3;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#errorTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:errorTextAppearance
+        */
+        public static final int TextInputLayout_errorTextAppearance = 4;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#hintAnimationEnabled}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name vnexpress.luff.com.read:hintAnimationEnabled
+        */
+        public static final int TextInputLayout_hintAnimationEnabled = 9;
+        /**
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#hintTextAppearance}
+          attribute's value can be found in the {@link #TextInputLayout} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name vnexpress.luff.com.read:hintTextAppearance
+        */
+        public static final int TextInputLayout_hintTextAppearance = 2;
         /** Attributes that can be used with a Theme.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.luff.vnexpress_news:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.luff.vnexpress_news:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.luff.vnexpress_news:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.luff.vnexpress_news:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.luff.vnexpress_news:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.luff.vnexpress_news:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.luff.vnexpress_news:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.luff.vnexpress_news:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.luff.vnexpress_news:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.luff.vnexpress_news:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.luff.vnexpress_news:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.luff.vnexpress_news:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.luff.vnexpress_news:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.luff.vnexpress_news:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.luff.vnexpress_news:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.luff.vnexpress_news:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.luff.vnexpress_news:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.luff.vnexpress_news:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.luff.vnexpress_news:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.luff.vnexpress_news:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.luff.vnexpress_news:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.luff.vnexpress_news:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.luff.vnexpress_news:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.luff.vnexpress_news:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.luff.vnexpress_news:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.luff.vnexpress_news:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.luff.vnexpress_news:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.luff.vnexpress_news:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.luff.vnexpress_news:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.luff.vnexpress_news:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.luff.vnexpress_news:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.luff.vnexpress_news:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.luff.vnexpress_news:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.luff.vnexpress_news:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.luff.vnexpress_news:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider vnexpress.luff.com.read:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground vnexpress.luff.com.read:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme vnexpress.luff.com.read:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize vnexpress.luff.com.read:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle vnexpress.luff.com.read:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle vnexpress.luff.com.read:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle vnexpress.luff.com.read:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle vnexpress.luff.com.read:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle vnexpress.luff.com.read:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme vnexpress.luff.com.read:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme vnexpress.luff.com.read:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle vnexpress.luff.com.read:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle vnexpress.luff.com.read:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance vnexpress.luff.com.read:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor vnexpress.luff.com.read:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground vnexpress.luff.com.read:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle vnexpress.luff.com.read:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable vnexpress.luff.com.read:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable vnexpress.luff.com.read:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable vnexpress.luff.com.read:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable vnexpress.luff.com.read:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable vnexpress.luff.com.read:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle vnexpress.luff.com.read:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable vnexpress.luff.com.read:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable vnexpress.luff.com.read:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground vnexpress.luff.com.read:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle vnexpress.luff.com.read:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable vnexpress.luff.com.read:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle vnexpress.luff.com.read:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle vnexpress.luff.com.read:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle vnexpress.luff.com.read:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle vnexpress.luff.com.read:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons vnexpress.luff.com.read:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle vnexpress.luff.com.read:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme vnexpress.luff.com.read:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.luff.vnexpress_news:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.luff.vnexpress_news:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.luff.vnexpress_news:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.luff.vnexpress_news:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.luff.vnexpress_news:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.luff.vnexpress_news:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.luff.vnexpress_news:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.luff.vnexpress_news:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.luff.vnexpress_news:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.luff.vnexpress_news:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.luff.vnexpress_news:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.luff.vnexpress_news:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.luff.vnexpress_news:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.luff.vnexpress_news:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.luff.vnexpress_news:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.luff.vnexpress_news:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.luff.vnexpress_news:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.luff.vnexpress_news:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.luff.vnexpress_news:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.luff.vnexpress_news:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.luff.vnexpress_news:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.luff.vnexpress_news:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.luff.vnexpress_news:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.luff.vnexpress_news:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.luff.vnexpress_news:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.luff.vnexpress_news:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.luff.vnexpress_news:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.luff.vnexpress_news:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.luff.vnexpress_news:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.luff.vnexpress_news:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_imageButtonStyle com.luff.vnexpress_news:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.luff.vnexpress_news:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.luff.vnexpress_news:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.luff.vnexpress_news:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.luff.vnexpress_news:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.luff.vnexpress_news:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.luff.vnexpress_news:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.luff.vnexpress_news:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.luff.vnexpress_news:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.luff.vnexpress_news:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.luff.vnexpress_news:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.luff.vnexpress_news:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.luff.vnexpress_news:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.luff.vnexpress_news:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.luff.vnexpress_news:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.luff.vnexpress_news:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.luff.vnexpress_news:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_seekBarStyle com.luff.vnexpress_news:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.luff.vnexpress_news:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.luff.vnexpress_news:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.luff.vnexpress_news:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.luff.vnexpress_news:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.luff.vnexpress_news:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.luff.vnexpress_news:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.luff.vnexpress_news:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.luff.vnexpress_news:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.luff.vnexpress_news:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.luff.vnexpress_news:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.luff.vnexpress_news:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.luff.vnexpress_news:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.luff.vnexpress_news:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.luff.vnexpress_news:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.luff.vnexpress_news:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.luff.vnexpress_news:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.luff.vnexpress_news:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.luff.vnexpress_news:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.luff.vnexpress_news:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.luff.vnexpress_news:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.luff.vnexpress_news:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.luff.vnexpress_news:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.luff.vnexpress_news:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.luff.vnexpress_news:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.luff.vnexpress_news:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle vnexpress.luff.com.read:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle vnexpress.luff.com.read:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle vnexpress.luff.com.read:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle vnexpress.luff.com.read:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle vnexpress.luff.com.read:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle vnexpress.luff.com.read:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle vnexpress.luff.com.read:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle vnexpress.luff.com.read:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall vnexpress.luff.com.read:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle vnexpress.luff.com.read:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle vnexpress.luff.com.read:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent vnexpress.luff.com.read:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal vnexpress.luff.com.read:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated vnexpress.luff.com.read:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight vnexpress.luff.com.read:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal vnexpress.luff.com.read:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary vnexpress.luff.com.read:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark vnexpress.luff.com.read:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal vnexpress.luff.com.read:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground vnexpress.luff.com.read:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding vnexpress.luff.com.read:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme vnexpress.luff.com.read:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal vnexpress.luff.com.read:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical vnexpress.luff.com.read:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle vnexpress.luff.com.read:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight vnexpress.luff.com.read:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground vnexpress.luff.com.read:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor vnexpress.luff.com.read:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle vnexpress.luff.com.read:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator vnexpress.luff.com.read:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_imageButtonStyle vnexpress.luff.com.read:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator vnexpress.luff.com.read:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog vnexpress.luff.com.read:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle vnexpress.luff.com.read:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight vnexpress.luff.com.read:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge vnexpress.luff.com.read:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall vnexpress.luff.com.read:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft vnexpress.luff.com.read:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight vnexpress.luff.com.read:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground vnexpress.luff.com.read:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme vnexpress.luff.com.read:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth vnexpress.luff.com.read:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle vnexpress.luff.com.read:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle vnexpress.luff.com.read:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle vnexpress.luff.com.read:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle vnexpress.luff.com.read:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle vnexpress.luff.com.read:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_seekBarStyle vnexpress.luff.com.read:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground vnexpress.luff.com.read:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless vnexpress.luff.com.read:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle vnexpress.luff.com.read:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle vnexpress.luff.com.read:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle vnexpress.luff.com.read:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu vnexpress.luff.com.read:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem vnexpress.luff.com.read:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall vnexpress.luff.com.read:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle vnexpress.luff.com.read:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle vnexpress.luff.com.read:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu vnexpress.luff.com.read:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem vnexpress.luff.com.read:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl vnexpress.luff.com.read:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle vnexpress.luff.com.read:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle vnexpress.luff.com.read:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar vnexpress.luff.com.read:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay vnexpress.luff.com.read:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay vnexpress.luff.com.read:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor vnexpress.luff.com.read:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor vnexpress.luff.com.read:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor vnexpress.luff.com.read:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor vnexpress.luff.com.read:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor vnexpress.luff.com.read:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor vnexpress.luff.com.read:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle vnexpress.luff.com.read:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -4375,67 +6527,67 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Theme_windowNoTitle
          */
         public static final int[] Theme = {
-            0x01010057, 0x010100ae, 0x7f01004e, 0x7f01004f,
-            0x7f010050, 0x7f010051, 0x7f010052, 0x7f010053,
-            0x7f010054, 0x7f010055, 0x7f010056, 0x7f010057,
-            0x7f010058, 0x7f010059, 0x7f01005a, 0x7f01005b,
-            0x7f01005c, 0x7f01005d, 0x7f01005e, 0x7f01005f,
-            0x7f010060, 0x7f010061, 0x7f010062, 0x7f010063,
-            0x7f010064, 0x7f010065, 0x7f010066, 0x7f010067,
-            0x7f010068, 0x7f010069, 0x7f01006a, 0x7f01006b,
-            0x7f01006c, 0x7f01006d, 0x7f01006e, 0x7f01006f,
-            0x7f010070, 0x7f010071, 0x7f010072, 0x7f010073,
-            0x7f010074, 0x7f010075, 0x7f010076, 0x7f010077,
-            0x7f010078, 0x7f010079, 0x7f01007a, 0x7f01007b,
-            0x7f01007c, 0x7f01007d, 0x7f01007e, 0x7f01007f,
-            0x7f010080, 0x7f010081, 0x7f010082, 0x7f010083,
-            0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087,
-            0x7f010088, 0x7f010089, 0x7f01008a, 0x7f01008b,
-            0x7f01008c, 0x7f01008d, 0x7f01008e, 0x7f01008f,
-            0x7f010090, 0x7f010091, 0x7f010092, 0x7f010093,
-            0x7f010094, 0x7f010095, 0x7f010096, 0x7f010097,
-            0x7f010098, 0x7f010099, 0x7f01009a, 0x7f01009b,
-            0x7f01009c, 0x7f01009d, 0x7f01009e, 0x7f01009f,
-            0x7f0100a0, 0x7f0100a1, 0x7f0100a2, 0x7f0100a3,
-            0x7f0100a4, 0x7f0100a5, 0x7f0100a6, 0x7f0100a7,
-            0x7f0100a8, 0x7f0100a9, 0x7f0100aa, 0x7f0100ab,
-            0x7f0100ac, 0x7f0100ad, 0x7f0100ae, 0x7f0100af,
-            0x7f0100b0, 0x7f0100b1, 0x7f0100b2, 0x7f0100b3,
-            0x7f0100b4, 0x7f0100b5, 0x7f0100b6, 0x7f0100b7,
-            0x7f0100b8, 0x7f0100b9
+            0x01010057, 0x010100ae, 0x7f010090, 0x7f010091,
+            0x7f010092, 0x7f010093, 0x7f010094, 0x7f010095,
+            0x7f010096, 0x7f010097, 0x7f010098, 0x7f010099,
+            0x7f01009a, 0x7f01009b, 0x7f01009c, 0x7f01009d,
+            0x7f01009e, 0x7f01009f, 0x7f0100a0, 0x7f0100a1,
+            0x7f0100a2, 0x7f0100a3, 0x7f0100a4, 0x7f0100a5,
+            0x7f0100a6, 0x7f0100a7, 0x7f0100a8, 0x7f0100a9,
+            0x7f0100aa, 0x7f0100ab, 0x7f0100ac, 0x7f0100ad,
+            0x7f0100ae, 0x7f0100af, 0x7f0100b0, 0x7f0100b1,
+            0x7f0100b2, 0x7f0100b3, 0x7f0100b4, 0x7f0100b5,
+            0x7f0100b6, 0x7f0100b7, 0x7f0100b8, 0x7f0100b9,
+            0x7f0100ba, 0x7f0100bb, 0x7f0100bc, 0x7f0100bd,
+            0x7f0100be, 0x7f0100bf, 0x7f0100c0, 0x7f0100c1,
+            0x7f0100c2, 0x7f0100c3, 0x7f0100c4, 0x7f0100c5,
+            0x7f0100c6, 0x7f0100c7, 0x7f0100c8, 0x7f0100c9,
+            0x7f0100ca, 0x7f0100cb, 0x7f0100cc, 0x7f0100cd,
+            0x7f0100ce, 0x7f0100cf, 0x7f0100d0, 0x7f0100d1,
+            0x7f0100d2, 0x7f0100d3, 0x7f0100d4, 0x7f0100d5,
+            0x7f0100d6, 0x7f0100d7, 0x7f0100d8, 0x7f0100d9,
+            0x7f0100da, 0x7f0100db, 0x7f0100dc, 0x7f0100dd,
+            0x7f0100de, 0x7f0100df, 0x7f0100e0, 0x7f0100e1,
+            0x7f0100e2, 0x7f0100e3, 0x7f0100e4, 0x7f0100e5,
+            0x7f0100e6, 0x7f0100e7, 0x7f0100e8, 0x7f0100e9,
+            0x7f0100ea, 0x7f0100eb, 0x7f0100ec, 0x7f0100ed,
+            0x7f0100ee, 0x7f0100ef, 0x7f0100f0, 0x7f0100f1,
+            0x7f0100f2, 0x7f0100f3, 0x7f0100f4, 0x7f0100f5,
+            0x7f0100f6, 0x7f0100f7, 0x7f0100f8, 0x7f0100f9,
+            0x7f0100fa, 0x7f0100fb
         };
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarDivider
+          @attr name vnexpress.luff.com.read:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarItemBackground
+          @attr name vnexpress.luff.com.read:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarPopupTheme
+          @attr name vnexpress.luff.com.read:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4455,111 +6607,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.luff.vnexpress_news:actionBarSize
+          @attr name vnexpress.luff.com.read:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarSplitStyle
+          @attr name vnexpress.luff.com.read:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarStyle
+          @attr name vnexpress.luff.com.read:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarTabBarStyle
+          @attr name vnexpress.luff.com.read:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarTabStyle
+          @attr name vnexpress.luff.com.read:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarTabTextStyle
+          @attr name vnexpress.luff.com.read:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarTheme
+          @attr name vnexpress.luff.com.read:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionBarWidgetTheme
+          @attr name vnexpress.luff.com.read:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionButtonStyle
+          @attr name vnexpress.luff.com.read:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionDropDownStyle
+          @attr name vnexpress.luff.com.read:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionMenuTextAppearance
+          @attr name vnexpress.luff.com.read:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4567,181 +6719,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.luff.vnexpress_news:actionMenuTextColor
+          @attr name vnexpress.luff.com.read:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeBackground
+          @attr name vnexpress.luff.com.read:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeCloseButtonStyle
+          @attr name vnexpress.luff.com.read:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeCloseDrawable
+          @attr name vnexpress.luff.com.read:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeCopyDrawable
+          @attr name vnexpress.luff.com.read:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeCutDrawable
+          @attr name vnexpress.luff.com.read:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeFindDrawable
+          @attr name vnexpress.luff.com.read:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModePasteDrawable
+          @attr name vnexpress.luff.com.read:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModePopupWindowStyle
+          @attr name vnexpress.luff.com.read:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeSelectAllDrawable
+          @attr name vnexpress.luff.com.read:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeShareDrawable
+          @attr name vnexpress.luff.com.read:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeSplitBackground
+          @attr name vnexpress.luff.com.read:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeStyle
+          @attr name vnexpress.luff.com.read:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionModeWebSearchDrawable
+          @attr name vnexpress.luff.com.read:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionOverflowButtonStyle
+          @attr name vnexpress.luff.com.read:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:actionOverflowMenuStyle
+          @attr name vnexpress.luff.com.read:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:activityChooserViewStyle
+          @attr name vnexpress.luff.com.read:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:alertDialogButtonGroupStyle
+          @attr name vnexpress.luff.com.read:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4751,27 +6903,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:alertDialogCenterButtons
+          @attr name vnexpress.luff.com.read:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:alertDialogStyle
+          @attr name vnexpress.luff.com.read:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:alertDialogTheme
+          @attr name vnexpress.luff.com.read:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 94;
         /**
@@ -4787,117 +6939,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:autoCompleteTextViewStyle
+          @attr name vnexpress.luff.com.read:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:borderlessButtonStyle
+          @attr name vnexpress.luff.com.read:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonBarButtonStyle
+          @attr name vnexpress.luff.com.read:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonBarNegativeButtonStyle
+          @attr name vnexpress.luff.com.read:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonBarNeutralButtonStyle
+          @attr name vnexpress.luff.com.read:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonBarPositiveButtonStyle
+          @attr name vnexpress.luff.com.read:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonBarStyle
+          @attr name vnexpress.luff.com.read:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonStyle
+          @attr name vnexpress.luff.com.read:buttonStyle
         */
         public static final int Theme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:buttonStyleSmall
+          @attr name vnexpress.luff.com.read:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:checkboxStyle
+          @attr name vnexpress.luff.com.read:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:checkedTextViewStyle
+          @attr name vnexpress.luff.com.read:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4908,11 +7060,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorAccent
+          @attr name vnexpress.luff.com.read:colorAccent
         */
         public static final int Theme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4923,11 +7075,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorButtonNormal
+          @attr name vnexpress.luff.com.read:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4938,11 +7090,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorControlActivated
+          @attr name vnexpress.luff.com.read:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4953,11 +7105,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorControlHighlight
+          @attr name vnexpress.luff.com.read:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4968,11 +7120,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorControlNormal
+          @attr name vnexpress.luff.com.read:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4983,11 +7135,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorPrimary
+          @attr name vnexpress.luff.com.read:colorPrimary
         */
         public static final int Theme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4998,11 +7150,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorPrimaryDark
+          @attr name vnexpress.luff.com.read:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5013,21 +7165,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:colorSwitchThumbNormal
+          @attr name vnexpress.luff.com.read:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:controlBackground
+          @attr name vnexpress.luff.com.read:controlBackground
         */
         public static final int Theme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5039,51 +7191,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:dialogPreferredPadding
+          @attr name vnexpress.luff.com.read:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:dialogTheme
+          @attr name vnexpress.luff.com.read:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:dividerHorizontal
+          @attr name vnexpress.luff.com.read:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:dividerVertical
+          @attr name vnexpress.luff.com.read:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:dropDownListViewStyle
+          @attr name vnexpress.luff.com.read:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5095,21 +7247,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:dropdownListPreferredItemHeight
+          @attr name vnexpress.luff.com.read:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:editTextBackground
+          @attr name vnexpress.luff.com.read:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5117,71 +7269,71 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.luff.vnexpress_news:editTextColor
+          @attr name vnexpress.luff.com.read:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:editTextStyle
+          @attr name vnexpress.luff.com.read:editTextStyle
         */
         public static final int Theme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:homeAsUpIndicator
+          @attr name vnexpress.luff.com.read:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:imageButtonStyle
+          @attr name vnexpress.luff.com.read:imageButtonStyle
         */
         public static final int Theme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:listChoiceBackgroundIndicator
+          @attr name vnexpress.luff.com.read:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:listDividerAlertDialog
+          @attr name vnexpress.luff.com.read:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:listPopupWindowStyle
+          @attr name vnexpress.luff.com.read:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5193,11 +7345,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:listPreferredItemHeight
+          @attr name vnexpress.luff.com.read:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5209,11 +7361,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:listPreferredItemHeightLarge
+          @attr name vnexpress.luff.com.read:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5225,11 +7377,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:listPreferredItemHeightSmall
+          @attr name vnexpress.luff.com.read:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5241,11 +7393,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:listPreferredItemPaddingLeft
+          @attr name vnexpress.luff.com.read:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5257,31 +7409,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:listPreferredItemPaddingRight
+          @attr name vnexpress.luff.com.read:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:panelBackground
+          @attr name vnexpress.luff.com.read:panelBackground
         */
         public static final int Theme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:panelMenuListTheme
+          @attr name vnexpress.luff.com.read:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5293,181 +7445,181 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:panelMenuListWidth
+          @attr name vnexpress.luff.com.read:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:popupMenuStyle
+          @attr name vnexpress.luff.com.read:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:popupWindowStyle
+          @attr name vnexpress.luff.com.read:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:radioButtonStyle
+          @attr name vnexpress.luff.com.read:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:ratingBarStyle
+          @attr name vnexpress.luff.com.read:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:searchViewStyle
+          @attr name vnexpress.luff.com.read:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:seekBarStyle
+          @attr name vnexpress.luff.com.read:seekBarStyle
         */
         public static final int Theme_seekBarStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:selectableItemBackground
+          @attr name vnexpress.luff.com.read:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:selectableItemBackgroundBorderless
+          @attr name vnexpress.luff.com.read:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:spinnerDropDownItemStyle
+          @attr name vnexpress.luff.com.read:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:spinnerStyle
+          @attr name vnexpress.luff.com.read:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:switchStyle
+          @attr name vnexpress.luff.com.read:switchStyle
         */
         public static final int Theme_switchStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:textAppearanceLargePopupMenu
+          @attr name vnexpress.luff.com.read:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:textAppearanceListItem
+          @attr name vnexpress.luff.com.read:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:textAppearanceListItemSmall
+          @attr name vnexpress.luff.com.read:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:textAppearanceSearchResultSubtitle
+          @attr name vnexpress.luff.com.read:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:textAppearanceSearchResultTitle
+          @attr name vnexpress.luff.com.read:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:textAppearanceSmallPopupMenu
+          @attr name vnexpress.luff.com.read:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5475,11 +7627,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.luff.vnexpress_news:textColorAlertDialogListItem
+          @attr name vnexpress.luff.com.read:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5487,31 +7639,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.luff.vnexpress_news:textColorSearchUrl
+          @attr name vnexpress.luff.com.read:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:toolbarNavigationButtonStyle
+          @attr name vnexpress.luff.com.read:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:toolbarStyle
+          @attr name vnexpress.luff.com.read:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5521,11 +7673,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowActionBar
+          @attr name vnexpress.luff.com.read:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5535,11 +7687,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowActionBarOverlay
+          @attr name vnexpress.luff.com.read:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5549,11 +7701,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowActionModeOverlay
+          @attr name vnexpress.luff.com.read:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5568,11 +7720,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowFixedHeightMajor
+          @attr name vnexpress.luff.com.read:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5587,11 +7739,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowFixedHeightMinor
+          @attr name vnexpress.luff.com.read:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5606,11 +7758,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowFixedWidthMajor
+          @attr name vnexpress.luff.com.read:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5625,11 +7777,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowFixedWidthMinor
+          @attr name vnexpress.luff.com.read:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5644,11 +7796,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowMinWidthMajor
+          @attr name vnexpress.luff.com.read:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5663,11 +7815,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowMinWidthMinor
+          @attr name vnexpress.luff.com.read:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5677,7 +7829,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:windowNoTitle
+          @attr name vnexpress.luff.com.read:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -5688,29 +7840,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.luff.vnexpress_news:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.luff.vnexpress_news:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.luff.vnexpress_news:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.luff.vnexpress_news:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.luff.vnexpress_news:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.luff.vnexpress_news:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.luff.vnexpress_news:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.luff.vnexpress_news:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.luff.vnexpress_news:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.luff.vnexpress_news:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.luff.vnexpress_news:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.luff.vnexpress_news:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.luff.vnexpress_news:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.luff.vnexpress_news:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.luff.vnexpress_news:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.luff.vnexpress_news:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.luff.vnexpress_news:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.luff.vnexpress_news:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.luff.vnexpress_news:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.luff.vnexpress_news:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.luff.vnexpress_news:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.luff.vnexpress_news:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.luff.vnexpress_news:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription vnexpress.luff.com.read:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon vnexpress.luff.com.read:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd vnexpress.luff.com.read:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft vnexpress.luff.com.read:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight vnexpress.luff.com.read:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart vnexpress.luff.com.read:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo vnexpress.luff.com.read:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription vnexpress.luff.com.read:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight vnexpress.luff.com.read:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription vnexpress.luff.com.read:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon vnexpress.luff.com.read:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme vnexpress.luff.com.read:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle vnexpress.luff.com.read:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance vnexpress.luff.com.read:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor vnexpress.luff.com.read:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title vnexpress.luff.com.read:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom vnexpress.luff.com.read:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd vnexpress.luff.com.read:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart vnexpress.luff.com.read:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop vnexpress.luff.com.read:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins vnexpress.luff.com.read:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance vnexpress.luff.com.read:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor vnexpress.luff.com.read:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -5741,11 +7893,11 @@ containing a value of this type.
         public static final int[] Toolbar = {
             0x010100af, 0x01010140, 0x7f010003, 0x7f010006,
             0x7f01000a, 0x7f010016, 0x7f010017, 0x7f010018,
-            0x7f010019, 0x7f01001b, 0x7f0100ba, 0x7f0100bb,
-            0x7f0100bc, 0x7f0100bd, 0x7f0100be, 0x7f0100bf,
-            0x7f0100c0, 0x7f0100c1, 0x7f0100c2, 0x7f0100c3,
-            0x7f0100c4, 0x7f0100c5, 0x7f0100c6, 0x7f0100c7,
-            0x7f0100c8
+            0x7f010019, 0x7f01001b, 0x7f0100fc, 0x7f0100fd,
+            0x7f0100fe, 0x7f0100ff, 0x7f010100, 0x7f010101,
+            0x7f010102, 0x7f010103, 0x7f010104, 0x7f010105,
+            0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109,
+            0x7f01010a
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
@@ -5760,7 +7912,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5770,21 +7922,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:collapseContentDescription
+          @attr name vnexpress.luff.com.read:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:collapseIcon
+          @attr name vnexpress.luff.com.read:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5796,11 +7948,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetEnd
+          @attr name vnexpress.luff.com.read:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5812,11 +7964,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetLeft
+          @attr name vnexpress.luff.com.read:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5828,11 +7980,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetRight
+          @attr name vnexpress.luff.com.read:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5844,21 +7996,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:contentInsetStart
+          @attr name vnexpress.luff.com.read:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#logo}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:logo
+          @attr name vnexpress.luff.com.read:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5868,11 +8020,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:logoDescription
+          @attr name vnexpress.luff.com.read:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5884,11 +8036,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:maxButtonHeight
+          @attr name vnexpress.luff.com.read:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5898,31 +8050,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:navigationContentDescription
+          @attr name vnexpress.luff.com.read:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:navigationIcon
+          @attr name vnexpress.luff.com.read:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:popupTheme
+          @attr name vnexpress.luff.com.read:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5932,21 +8084,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:subtitle
+          @attr name vnexpress.luff.com.read:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:subtitleTextAppearance
+          @attr name vnexpress.luff.com.read:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5957,11 +8109,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:subtitleTextColor
+          @attr name vnexpress.luff.com.read:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#title}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5971,11 +8123,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:title
+          @attr name vnexpress.luff.com.read:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5987,11 +8139,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:titleMarginBottom
+          @attr name vnexpress.luff.com.read:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6003,11 +8155,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:titleMarginEnd
+          @attr name vnexpress.luff.com.read:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6019,11 +8171,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:titleMarginStart
+          @attr name vnexpress.luff.com.read:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6035,11 +8187,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:titleMarginTop
+          @attr name vnexpress.luff.com.read:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6051,21 +8203,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:titleMargins
+          @attr name vnexpress.luff.com.read:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:titleTextAppearance
+          @attr name vnexpress.luff.com.read:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6076,7 +8228,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:titleTextColor
+          @attr name vnexpress.luff.com.read:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -6087,9 +8239,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.luff.vnexpress_news:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.luff.vnexpress_news:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.luff.vnexpress_news:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd vnexpress.luff.com.read:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart vnexpress.luff.com.read:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme vnexpress.luff.com.read:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6098,8 +8250,8 @@ containing a value of this type.
            @see #View_theme
          */
         public static final int[] View = {
-            0x01010000, 0x010100da, 0x7f0100c9, 0x7f0100ca,
-            0x7f0100cb
+            0x01010000, 0x010100da, 0x7f01010b, 0x7f01010c,
+            0x7f01010d
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -6114,7 +8266,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6126,11 +8278,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:paddingEnd
+          @attr name vnexpress.luff.com.read:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6142,17 +8294,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:paddingStart
+          @attr name vnexpress.luff.com.read:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#theme}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.luff.vnexpress_news:theme
+          @attr name vnexpress.luff.com.read:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6162,15 +8314,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.luff.vnexpress_news:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.luff.vnexpress_news:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint vnexpress.luff.com.read:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode vnexpress.luff.com.read:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
            @see #ViewBackgroundHelper_backgroundTintMode
          */
         public static final int[] ViewBackgroundHelper = {
-            0x010100d4, 0x7f0100cc, 0x7f0100cd
+            0x010100d4, 0x7f01010e, 0x7f01010f
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#background}
@@ -6179,7 +8331,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6190,11 +8342,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.luff.vnexpress_news:backgroundTint
+          @attr name vnexpress.luff.com.read:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.luff.vnexpress_news.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link vnexpress.luff.com.read.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6210,7 +8362,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.luff.vnexpress_news:backgroundTintMode
+          @attr name vnexpress.luff.com.read:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

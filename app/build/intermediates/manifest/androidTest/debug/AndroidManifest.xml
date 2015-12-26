@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.luff.vnexpress_news.test">
+    package="vnexpress.luff.com.read.test">
 
-    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="16" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.luff.vnexpress_news"
+                     android:targetPackage="vnexpress.luff.com.read"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.luff.vnexpress_news"/>
+                     android:label="Tests for vnexpress.luff.com.read"/>
 </manifest>
